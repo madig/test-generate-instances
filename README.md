@@ -4,7 +4,14 @@ Producing fonts from source files is often done with Python libraries, which hap
 
 This repository contains some test scripts for timing and profiling various methods of generating instances in parallel.
 
-Run them like this:
+Install the rquirements first:
+
+```
+> # Create a Python venv and activate it first.
+> pip install -r requirements.txt
+```
+
+Run the scripts like this:
 
 ```
 > python gen-instances-simple-copy.py NotoSans-MM.designspace /tmp
