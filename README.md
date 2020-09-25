@@ -7,7 +7,7 @@ This repository contains some test scripts for timing and profiling various meth
 Run them like this:
 
 ```
-> python gen-instances-simple.py NotoSans-MM.designspace /tmp
+> python gen-instances-simple-copy.py NotoSans-MM.designspace /tmp
 ```
 
 The instancees will then be written to `/tmp`. Note: On Fedora 32, this is usually a RAM-backed filesystem.
@@ -15,7 +15,7 @@ The instancees will then be written to `/tmp`. Note: On Fedora 32, this is usual
 With a profiler like [py-spy](https://github.com/benfred/py-spy), run them like this:
 
 ```
-> py-spy record -F -s -n -r 60 -f speedscope -o out.speedscope python gen-instances-simple.py NotoSans-MM.designspace /tmp
+> py-spy record -F -s -n -r 60 -f speedscope -o out.speedscope python gen-instances-simple-copy.py NotoSans-MM.designspace /tmp
 ```
 
 and load the generated `out.speedscope` file into https://www.speedscope.app/.
