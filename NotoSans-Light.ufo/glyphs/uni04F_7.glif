@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F7" format="2">
+  <advance width="414"/>
+  <unicode hex="04F7"/>
+  <anchor x="207" y="-176" name="bottom"/>
+  <anchor x="207" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="394" y="528" type="line"/>
+      <point x="91" y="528" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="-176" type="line"/>
+      <point x="184" y="-176" type="line"/>
+      <point x="184" y="25" type="line"/>
+      <point x="117" y="25" type="line"/>
+      <point x="117" y="503" type="line"/>
+      <point x="394" y="503" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:55</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

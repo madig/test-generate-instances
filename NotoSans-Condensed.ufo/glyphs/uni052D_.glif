@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni052D" format="2">
+  <advance width="465"/>
+  <unicode hex="052D"/>
+  <anchor x="231" y="-186" name="bottom"/>
+  <anchor x="231" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="12" y="-186" type="line"/>
+      <point x="86" y="-186" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="-186" type="line"/>
+      <point x="446" y="-186" type="line"/>
+      <point x="446" y="70" type="line"/>
+      <point x="390" y="70" type="line"/>
+      <point x="390" y="536" type="line"/>
+      <point x="170" y="536" type="line"/>
+      <point x="167" y="434"/>
+      <point x="156" y="337"/>
+      <point x="136" y="253" type="curve"/>
+      <point x="101" y="265"/>
+      <point x="87" y="300"/>
+      <point x="87" y="364" type="curve" smooth="yes"/>
+      <point x="87" y="536" type="line"/>
+      <point x="20" y="536" type="line"/>
+      <point x="20" y="357" type="line" smooth="yes"/>
+      <point x="20" y="260"/>
+      <point x="50" y="203"/>
+      <point x="114" y="187" type="curve"/>
+      <point x="103" y="144"/>
+      <point x="90" y="105"/>
+      <point x="74" y="70" type="curve"/>
+      <point x="12" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="70" type="line"/>
+      <point x="164" y="105"/>
+      <point x="176" y="143"/>
+      <point x="185" y="183" type="curve"/>
+      <point x="232" y="186"/>
+      <point x="273" y="204"/>
+      <point x="309" y="244" type="curve"/>
+      <point x="309" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="247" type="curve"/>
+      <point x="217" y="314"/>
+      <point x="224" y="387"/>
+      <point x="227" y="467" type="curve"/>
+      <point x="309" y="467" type="line"/>
+      <point x="309" y="307" type="line"/>
+      <point x="274" y="268"/>
+      <point x="241" y="249"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>afii10069</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:06</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="402"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="107" y="294" type="curve" smooth="yes"/>
+      <point x="107" y="252" type="line"/>
+      <point x="243" y="252" type="line"/>
+      <point x="243" y="277" type="line" smooth="yes"/>
+      <point x="243" y="306"/>
+      <point x="245" y="317"/>
+      <point x="295" y="362" type="curve" smooth="yes"/>
+      <point x="354" y="414"/>
+      <point x="388" y="460"/>
+      <point x="388" y="546" type="curve" smooth="yes"/>
+      <point x="388" y="655"/>
+      <point x="319" y="724"/>
+      <point x="189" y="724" type="curve" smooth="yes"/>
+      <point x="126" y="724"/>
+      <point x="63" y="701"/>
+      <point x="0" y="655" type="curve"/>
+      <point x="52" y="528" type="line"/>
+      <point x="98" y="562"/>
+      <point x="138" y="580"/>
+      <point x="173" y="580" type="curve" smooth="yes"/>
+      <point x="212" y="580"/>
+      <point x="230" y="563"/>
+      <point x="230" y="532" type="curve" smooth="yes"/>
+      <point x="230" y="494"/>
+      <point x="215" y="476"/>
+      <point x="175" y="440" type="curve" smooth="yes"/>
+      <point x="126" y="396"/>
+      <point x="107" y="359"/>
+    </contour>
+    <contour>
+      <point x="83" y="81" type="curve" smooth="yes"/>
+      <point x="83" y="22"/>
+      <point x="119" y="-12"/>
+      <point x="176" y="-12" type="curve" smooth="yes"/>
+      <point x="233" y="-12"/>
+      <point x="266" y="22"/>
+      <point x="266" y="81" type="curve" smooth="yes"/>
+      <point x="266" y="141"/>
+      <point x="234" y="175"/>
+      <point x="176" y="175" type="curve" smooth="yes"/>
+      <point x="116" y="175"/>
+      <point x="83" y="141"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:50</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

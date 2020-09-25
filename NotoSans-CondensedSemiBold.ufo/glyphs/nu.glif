@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu" format="2">
+  <advance width="463"/>
+  <unicode hex="03BD"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="232" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="6" y="547" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="384" y="167"/>
+      <point x="435" y="333"/>
+      <point x="435" y="547" type="curve"/>
+      <point x="304" y="547" type="line"/>
+      <point x="304" y="391"/>
+      <point x="283" y="260"/>
+      <point x="224" y="139" type="curve"/>
+      <point x="220" y="139" type="line"/>
+      <point x="218" y="165"/>
+      <point x="213" y="194"/>
+      <point x="206" y="228" type="curve" smooth="yes"/>
+      <point x="142" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:53</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng.alt3" format="2">
+  <advance width="595"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="298" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="297" y="-10" type="curve" smooth="yes"/>
+      <point x="453" y="-10"/>
+      <point x="540" y="77"/>
+      <point x="540" y="242" type="curve" smooth="yes"/>
+      <point x="540" y="534" type="line" smooth="yes"/>
+      <point x="540" y="668"/>
+      <point x="473" y="727"/>
+      <point x="368" y="724" type="curve" smooth="yes"/>
+      <point x="313" y="723"/>
+      <point x="265" y="695"/>
+      <point x="229" y="642" type="curve"/>
+      <point x="225" y="642" type="line"/>
+      <point x="205" y="714" type="line"/>
+      <point x="59" y="714" type="line"/>
+      <point x="59" y="370" type="line"/>
+      <point x="229" y="370" type="line"/>
+      <point x="229" y="445" type="line" smooth="yes"/>
+      <point x="229" y="532"/>
+      <point x="260" y="576"/>
+      <point x="305" y="577" type="curve" smooth="yes"/>
+      <point x="358" y="578"/>
+      <point x="370" y="542"/>
+      <point x="370" y="481" type="curve" smooth="yes"/>
+      <point x="370" y="247" type="line" smooth="yes"/>
+      <point x="370" y="167"/>
+      <point x="347" y="139"/>
+      <point x="299" y="139" type="curve" smooth="yes"/>
+      <point x="254" y="139"/>
+      <point x="229" y="168"/>
+      <point x="229" y="246" type="curve" smooth="yes"/>
+      <point x="229" y="270" type="line"/>
+      <point x="59" y="270" type="line"/>
+      <point x="59" y="238" type="line" smooth="yes"/>
+      <point x="59" y="72"/>
+      <point x="143" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

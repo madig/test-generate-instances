@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1AB5" format="2">
+  <unicode hex="1AB5"/>
+  <anchor x="1" y="0" name="_bottom"/>
+  <anchor x="1" y="-217" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-26" y="-115" type="line"/>
+      <point x="-49" y="-91" type="line"/>
+      <point x="-90" y="-131" type="line"/>
+      <point x="-130" y="-91" type="line"/>
+      <point x="-153" y="-113" type="line"/>
+      <point x="-112" y="-154" type="line"/>
+      <point x="-151" y="-193" type="line"/>
+      <point x="-128" y="-216" type="line"/>
+      <point x="-89" y="-177" type="line"/>
+      <point x="-48" y="-217" type="line"/>
+      <point x="-26" y="-195" type="line"/>
+      <point x="-66" y="-155" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="-115" type="line"/>
+      <point x="130" y="-91" type="line"/>
+      <point x="90" y="-131" type="line"/>
+      <point x="49" y="-91" type="line"/>
+      <point x="27" y="-113" type="line"/>
+      <point x="67" y="-154" type="line"/>
+      <point x="28" y="-193" type="line"/>
+      <point x="51" y="-216" type="line"/>
+      <point x="91" y="-177" type="line"/>
+      <point x="131" y="-217" type="line"/>
+      <point x="153" y="-195" type="line"/>
+      <point x="113" y="-155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

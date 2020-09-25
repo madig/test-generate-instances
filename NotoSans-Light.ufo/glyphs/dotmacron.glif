@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacron" format="2">
+  <outline>
+    <contour>
+      <point x="129" y="796" type="line"/>
+      <point x="-126" y="796" type="line"/>
+      <point x="-126" y="772" type="line"/>
+      <point x="129" y="772" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="698" type="curve" smooth="yes"/>
+      <point x="-20" y="698"/>
+      <point x="-25" y="683"/>
+      <point x="-25" y="667" type="curve" smooth="yes"/>
+      <point x="-25" y="650"/>
+      <point x="-20" y="636"/>
+      <point x="0" y="636" type="curve" smooth="yes"/>
+      <point x="24" y="636"/>
+      <point x="27" y="650"/>
+      <point x="27" y="667" type="curve" smooth="yes"/>
+      <point x="27" y="683"/>
+      <point x="24" y="698"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

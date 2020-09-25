@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D28" format="2">
+  <advance width="576"/>
+  <unicode hex="1D28"/>
+  <outline>
+    <contour>
+      <point x="516" y="0" type="line"/>
+      <point x="516" y="550" type="line"/>
+      <point x="60" y="550" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="428" type="line"/>
+      <point x="365" y="428" type="line"/>
+      <point x="365" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:59</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

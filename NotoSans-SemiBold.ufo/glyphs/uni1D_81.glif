@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D81" format="2">
+  <advance width="633"/>
+  <unicode hex="1D81"/>
+  <outline>
+    <contour>
+      <point x="463" y="-230" type="curve" smooth="yes"/>
+      <point x="556" y="-230"/>
+      <point x="605" y="-179"/>
+      <point x="605" y="-64" type="curve" smooth="yes"/>
+      <point x="605" y="109" type="line"/>
+      <point x="535" y="109" type="line"/>
+      <point x="481" y="13" type="line"/>
+      <point x="481" y="-64" type="line" smooth="yes"/>
+      <point x="481" y="-108"/>
+      <point x="464" y="-122"/>
+      <point x="431" y="-122" type="curve" smooth="yes"/>
+      <point x="414" y="-122"/>
+      <point x="397" y="-118"/>
+      <point x="383" y="-113" type="curve"/>
+      <point x="383" y="-217" type="line"/>
+      <point x="405" y="-225"/>
+      <point x="432" y="-230"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:00</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

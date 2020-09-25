@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="523"/>
+  <unicode hex="0385"/>
+  <anchor x="262" y="527" name="_top"/>
+  <outline>
+    <contour>
+      <point x="297" y="760" type="curve"/>
+      <point x="297" y="770" type="line"/>
+      <point x="268" y="770" type="line"/>
+      <point x="266" y="732"/>
+      <point x="255" y="659"/>
+      <point x="248" y="628" type="curve"/>
+      <point x="248" y="617" type="line"/>
+      <point x="267" y="617" type="line"/>
+      <point x="279" y="656"/>
+      <point x="293" y="723"/>
+    </contour>
+    <contour>
+      <point x="187" y="661" type="curve" smooth="yes"/>
+      <point x="171" y="661"/>
+      <point x="162" y="645"/>
+      <point x="162" y="628" type="curve" smooth="yes"/>
+      <point x="162" y="611"/>
+      <point x="171" y="596"/>
+      <point x="187" y="596" type="curve" smooth="yes"/>
+      <point x="201" y="596"/>
+      <point x="211" y="609"/>
+      <point x="211" y="628" type="curve" smooth="yes"/>
+      <point x="211" y="647"/>
+      <point x="201" y="661"/>
+    </contour>
+    <contour>
+      <point x="336" y="661" type="curve" smooth="yes"/>
+      <point x="321" y="661"/>
+      <point x="311" y="646"/>
+      <point x="311" y="629" type="curve" smooth="yes"/>
+      <point x="311" y="611"/>
+      <point x="321" y="596"/>
+      <point x="336" y="596" type="curve" smooth="yes"/>
+      <point x="351" y="596"/>
+      <point x="361" y="610"/>
+      <point x="361" y="629" type="curve" smooth="yes"/>
+      <point x="361" y="648"/>
+      <point x="350" y="661"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:52</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="392"/>
+  <unicode hex="00BA"/>
+  <anchor x="194" y="360" name="bottom"/>
+  <anchor x="200" y="725" name="top"/>
+  <outline>
+    <contour>
+      <point x="369" y="539" type="curve"/>
+      <point x="369" y="654"/>
+      <point x="294" y="722"/>
+      <point x="197" y="722" type="curve" smooth="yes"/>
+      <point x="90" y="722"/>
+      <point x="24" y="656"/>
+      <point x="24" y="539" type="curve" smooth="yes"/>
+      <point x="24" y="425"/>
+      <point x="95" y="356"/>
+      <point x="195" y="356" type="curve" smooth="yes"/>
+      <point x="301" y="356"/>
+      <point x="369" y="423"/>
+    </contour>
+    <contour>
+      <point x="147" y="539" type="curve"/>
+      <point x="147" y="595"/>
+      <point x="162" y="624"/>
+      <point x="196" y="624" type="curve" smooth="yes"/>
+      <point x="229" y="624"/>
+      <point x="244" y="595"/>
+      <point x="244" y="539" type="curve" smooth="yes"/>
+      <point x="244" y="483"/>
+      <point x="229" y="455"/>
+      <point x="196" y="455" type="curve" smooth="yes"/>
+      <point x="162" y="455"/>
+      <point x="147" y="483"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:51</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Superscript</string>
+    </dict>
+  </lib>
+</glyph>

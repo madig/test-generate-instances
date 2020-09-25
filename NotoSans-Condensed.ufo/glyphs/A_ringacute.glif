@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="450"/>
+  <unicode hex="01FA"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="225" y="959" name="top"/>
+  <outline>
+    <contour>
+      <point x="166" y="629" type="curve"/>
+      <point x="0" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="136" y="187" type="line"/>
+      <point x="313" y="187" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="280" y="629" type="line"/>
+      <point x="309" y="641"/>
+      <point x="328" y="667"/>
+      <point x="328" y="706" type="curve" smooth="yes"/>
+      <point x="328" y="766"/>
+      <point x="284" y="805"/>
+      <point x="223" y="805" type="curve" smooth="yes"/>
+      <point x="159" y="805"/>
+      <point x="118" y="765"/>
+      <point x="118" y="704" type="curve" smooth="yes"/>
+      <point x="118" y="667"/>
+      <point x="137" y="641"/>
+    </contour>
+    <contour>
+      <point x="152" y="264" type="line"/>
+      <point x="212" y="513" type="line"/>
+      <point x="216" y="536"/>
+      <point x="221" y="565"/>
+      <point x="223" y="586" type="curve"/>
+      <point x="226" y="566"/>
+      <point x="232" y="527"/>
+      <point x="240" y="489" type="curve"/>
+      <point x="296" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="653" type="curve" smooth="yes"/>
+      <point x="188" y="653"/>
+      <point x="170" y="673"/>
+      <point x="170" y="705" type="curve" smooth="yes"/>
+      <point x="170" y="735"/>
+      <point x="192" y="757"/>
+      <point x="224" y="757" type="curve" smooth="yes"/>
+      <point x="257" y="757"/>
+      <point x="277" y="735"/>
+      <point x="277" y="705" type="curve" smooth="yes"/>
+      <point x="277" y="673"/>
+      <point x="255" y="653"/>
+    </contour>
+    <contour>
+      <point x="173" y="840" type="curve"/>
+      <point x="173" y="830" type="line"/>
+      <point x="230" y="830" type="line"/>
+      <point x="273" y="865"/>
+      <point x="337" y="918"/>
+      <point x="358" y="952" type="curve"/>
+      <point x="358" y="959" type="line"/>
+      <point x="258" y="959" type="line"/>
+      <point x="246" y="932"/>
+      <point x="229" y="908"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:52</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

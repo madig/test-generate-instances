@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7BE" format="2">
+  <advance width="488"/>
+  <unicode hex="A7BE"/>
+  <anchor x="221" y="0" name="bottom"/>
+  <anchor x="373" y="714" name="top"/>
+  <anchor x="564" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="219" y="-10" type="curve" smooth="yes"/>
+      <point x="332" y="-10"/>
+      <point x="370" y="82"/>
+      <point x="401" y="225" type="curve" smooth="yes"/>
+      <point x="508" y="714" type="line"/>
+      <point x="482" y="714" type="line"/>
+      <point x="375" y="226" type="line" smooth="yes"/>
+      <point x="346" y="92"/>
+      <point x="315" y="15"/>
+      <point x="220" y="15" type="curve" smooth="yes"/>
+      <point x="163" y="15"/>
+      <point x="123" y="50"/>
+      <point x="123" y="119" type="curve" smooth="yes"/>
+      <point x="123" y="143"/>
+      <point x="126" y="175"/>
+      <point x="133" y="209" type="curve" smooth="yes"/>
+      <point x="241" y="714" type="line"/>
+      <point x="215" y="714" type="line"/>
+      <point x="107" y="209" type="line" smooth="yes"/>
+      <point x="100" y="174"/>
+      <point x="96" y="142"/>
+      <point x="96" y="118" type="curve" smooth="yes"/>
+      <point x="96" y="34"/>
+      <point x="148" y="-10"/>
+    </contour>
+    <contour>
+      <point x="12" y="513" type="line"/>
+      <point x="96" y="513"/>
+      <point x="147" y="562"/>
+      <point x="147" y="631" type="curve" smooth="yes"/>
+      <point x="147" y="673"/>
+      <point x="117" y="714"/>
+      <point x="47" y="714" type="curve" smooth="yes"/>
+      <point x="-7" y="714" type="line"/>
+      <point x="-12" y="689" type="line"/>
+      <point x="38" y="689" type="line" smooth="yes"/>
+      <point x="95" y="689"/>
+      <point x="120" y="664"/>
+      <point x="120" y="627" type="curve" smooth="yes"/>
+      <point x="120" y="573"/>
+      <point x="79" y="538"/>
+      <point x="12" y="538" type="curve" smooth="yes"/>
+      <point x="-14" y="538" type="line"/>
+      <point x="-20" y="513" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+    </dict>
+  </lib>
+</glyph>

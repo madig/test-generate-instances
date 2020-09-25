@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.sc" format="2">
+  <advance width="611"/>
+  <anchor x="305" y="591" name="_top"/>
+  <anchor x="307" y="808" name="top"/>
+  <outline>
+    <contour>
+      <point x="503" y="793" type="curve"/>
+      <point x="503" y="808" type="line"/>
+      <point x="379" y="808" type="line"/>
+      <point x="352" y="782"/>
+      <point x="330" y="760"/>
+      <point x="304" y="733" type="curve"/>
+      <point x="283" y="757"/>
+      <point x="257" y="787"/>
+      <point x="232" y="808" type="curve"/>
+      <point x="107" y="808" type="line"/>
+      <point x="107" y="793" type="line"/>
+      <point x="130" y="756"/>
+      <point x="167" y="696"/>
+      <point x="191" y="648" type="curve"/>
+      <point x="419" y="648" type="line"/>
+      <point x="445" y="695"/>
+      <point x="476" y="751"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

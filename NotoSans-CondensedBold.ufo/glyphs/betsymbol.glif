@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="betsymbol" format="2">
+  <advance width="472"/>
+  <unicode hex="2136"/>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="461" y="121" type="line"/>
+      <point x="396" y="121" type="line"/>
+      <point x="396" y="293" type="line"/>
+      <point x="396" y="503"/>
+      <point x="329" y="585"/>
+      <point x="153" y="585" type="curve"/>
+      <point x="32" y="585" type="line"/>
+      <point x="32" y="467" type="line"/>
+      <point x="152" y="467" type="line"/>
+      <point x="214" y="467"/>
+      <point x="252" y="416"/>
+      <point x="252" y="312" type="curve"/>
+      <point x="252" y="121" type="line"/>
+      <point x="13" y="121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:08</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

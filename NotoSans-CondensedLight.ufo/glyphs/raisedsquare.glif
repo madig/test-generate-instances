@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="raisedsquare" format="2">
+  <advance width="485"/>
+  <unicode hex="2E0B"/>
+  <outline>
+    <contour>
+      <point x="60" y="338" type="line"/>
+      <point x="425" y="338" type="line"/>
+      <point x="425" y="714" type="line"/>
+      <point x="60" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="689" type="line"/>
+      <point x="399" y="689" type="line"/>
+      <point x="399" y="363" type="line"/>
+      <point x="86" y="363" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

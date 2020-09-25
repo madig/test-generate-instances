@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.sc" format="2">
+  <advance width="363"/>
+  <anchor x="173" y="559" name="_top"/>
+  <anchor x="173" y="769" name="top"/>
+  <outline>
+    <contour>
+      <point x="260" y="682" type="curve" smooth="yes"/>
+      <point x="260" y="735"/>
+      <point x="222" y="769"/>
+      <point x="172" y="769" type="curve" smooth="yes"/>
+      <point x="124" y="769"/>
+      <point x="86" y="737"/>
+      <point x="86" y="683" type="curve" smooth="yes"/>
+      <point x="86" y="628"/>
+      <point x="126" y="597"/>
+      <point x="174" y="597" type="curve" smooth="yes"/>
+      <point x="224" y="597"/>
+      <point x="260" y="630"/>
+    </contour>
+    <contour>
+      <point x="238" y="682" type="curve" smooth="yes"/>
+      <point x="238" y="644"/>
+      <point x="213" y="618"/>
+      <point x="174" y="618" type="curve" smooth="yes"/>
+      <point x="131" y="618"/>
+      <point x="108" y="648"/>
+      <point x="108" y="683" type="curve" smooth="yes"/>
+      <point x="108" y="720"/>
+      <point x="131" y="748"/>
+      <point x="172" y="748" type="curve" smooth="yes"/>
+      <point x="212" y="748"/>
+      <point x="238" y="721"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

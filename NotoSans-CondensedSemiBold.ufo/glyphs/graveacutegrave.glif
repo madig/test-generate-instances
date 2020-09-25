@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="graveacutegrave" format="2">
+  <unicode hex="1DC8"/>
+  <anchor x="-1" y="547" name="_top"/>
+  <anchor x="1" y="745" name="top"/>
+  <outline>
+    <contour>
+      <point x="-55" y="588" type="line"/>
+      <point x="49" y="656" type="line"/>
+      <point x="125" y="602" type="line"/>
+      <point x="169" y="663" type="line"/>
+      <point x="54" y="745" type="line"/>
+      <point x="-51" y="677" type="line"/>
+      <point x="-127" y="731" type="line"/>
+      <point x="-171" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

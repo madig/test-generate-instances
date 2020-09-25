@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="500"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="34" y="256" type="line"/>
+      <point x="34" y="112" type="line"/>
+      <point x="471" y="319" type="line"/>
+      <point x="471" y="403" type="line"/>
+      <point x="34" y="609" type="line"/>
+      <point x="34" y="464" type="line"/>
+      <point x="280" y="361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:50</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

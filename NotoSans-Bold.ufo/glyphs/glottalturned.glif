@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalturned" format="2">
+  <advance width="511"/>
+  <unicode hex="0296"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="256" y="758" name="top"/>
+  <outline>
+    <contour>
+      <point x="221" y="-10" type="curve"/>
+      <point x="385" y="-10"/>
+      <point x="490" y="95"/>
+      <point x="490" y="213" type="curve"/>
+      <point x="490" y="314"/>
+      <point x="448" y="393"/>
+      <point x="312" y="460" type="curve"/>
+      <point x="312" y="758" type="line"/>
+      <point x="115" y="758" type="line"/>
+      <point x="115" y="379" type="line"/>
+      <point x="273" y="324"/>
+      <point x="293" y="248"/>
+      <point x="293" y="214" type="curve"/>
+      <point x="293" y="176"/>
+      <point x="254" y="145"/>
+      <point x="216" y="145" type="curve"/>
+      <point x="156" y="145"/>
+      <point x="93" y="181"/>
+      <point x="68" y="194" type="curve"/>
+      <point x="-1" y="56" type="line"/>
+      <point x="65" y="16"/>
+      <point x="132" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

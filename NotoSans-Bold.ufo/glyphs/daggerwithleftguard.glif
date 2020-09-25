@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerwithleftguard" format="2">
+  <advance width="488"/>
+  <unicode hex="2E36"/>
+  <outline>
+    <contour>
+      <point x="310" y="444" type="line"/>
+      <point x="310" y="556" type="line"/>
+      <point x="343" y="760" type="line"/>
+      <point x="174" y="760" type="line"/>
+      <point x="206" y="556" type="line"/>
+      <point x="60" y="571" type="line"/>
+      <point x="60" y="427" type="line"/>
+      <point x="206" y="444" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dottedgrave" format="2">
+  <unicode hex="1DC0"/>
+  <anchor x="0" y="553" name="_top"/>
+  <anchor x="2" y="834" name="top"/>
+  <outline>
+    <contour>
+      <point x="55" y="797" type="curve"/>
+      <point x="-94" y="797" type="line"/>
+      <point x="-94" y="787" type="line"/>
+      <point x="-75" y="742"/>
+      <point x="-45" y="692"/>
+      <point x="-8" y="637" type="curve"/>
+      <point x="75" y="637" type="line"/>
+      <point x="75" y="651" type="line"/>
+      <point x="66" y="689"/>
+      <point x="56" y="756"/>
+    </contour>
+    <contour>
+      <point x="-151" y="766" type="curve"/>
+      <point x="-197" y="766"/>
+      <point x="-225" y="742"/>
+      <point x="-225" y="689" type="curve"/>
+      <point x="-225" y="639"/>
+      <point x="-197" y="614"/>
+      <point x="-151" y="614" type="curve"/>
+      <point x="-107" y="614"/>
+      <point x="-76" y="639"/>
+      <point x="-76" y="689" type="curve"/>
+      <point x="-76" y="742"/>
+      <point x="-107" y="766"/>
+    </contour>
+    <contour>
+      <point x="150" y="834" type="curve"/>
+      <point x="103" y="834"/>
+      <point x="74" y="810"/>
+      <point x="74" y="757" type="curve"/>
+      <point x="74" y="707"/>
+      <point x="103" y="683"/>
+      <point x="150" y="683" type="curve"/>
+      <point x="195" y="683"/>
+      <point x="225" y="707"/>
+      <point x="225" y="757" type="curve"/>
+      <point x="225" y="810"/>
+      <point x="195" y="834"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

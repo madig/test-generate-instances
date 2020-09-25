@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravemacron" format="2">
+  <unicode hex="1DC5"/>
+  <anchor x="-4" y="546" name="_top"/>
+  <anchor x="-2" y="752" name="top"/>
+  <outline>
+    <contour>
+      <point x="148" y="596" type="line"/>
+      <point x="148" y="687" type="line"/>
+      <point x="6" y="687" type="line"/>
+      <point x="-114" y="752" type="line"/>
+      <point x="-156" y="673" type="line"/>
+      <point x="-14" y="596" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

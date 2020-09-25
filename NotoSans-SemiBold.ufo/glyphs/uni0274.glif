@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0274" format="2">
+  <advance width="692"/>
+  <unicode hex="0274"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="360" y="546" name="top"/>
+  <anchor x="628" y="546" name="topright"/>
+  <outline>
+    <contour>
+      <point x="87.67" y="0" type="line"/>
+      <point x="207.752" y="0" type="line"/>
+      <point x="207.752" y="252.36" type="line" smooth="yes"/>
+      <point x="205.875" y="305.834"/>
+      <point x="205" y="372"/>
+      <point x="203" y="401" type="curve"/>
+      <point x="431.967" y="0" type="line"/>
+      <point x="603.647" y="0" type="line"/>
+      <point x="603.647" y="545.997" type="line"/>
+      <point x="484.503" y="545.997" type="line"/>
+      <point x="484.503" y="292.7" type="line" smooth="yes"/>
+      <point x="485.441" y="242.04"/>
+      <point x="488" y="178"/>
+      <point x="489" y="150" type="curve"/>
+      <point x="260.288" y="545.997" type="line"/>
+      <point x="87.67" y="545.997" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

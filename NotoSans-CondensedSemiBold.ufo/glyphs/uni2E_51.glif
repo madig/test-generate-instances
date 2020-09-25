@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2E51" format="2">
+  <advance width="432"/>
+  <unicode hex="2E51"/>
+  <outline>
+    <contour>
+      <point x="358" y="88" type="line"/>
+      <point x="326" y="361" type="line"/>
+      <point x="368" y="632" type="line"/>
+      <point x="214" y="632" type="line"/>
+      <point x="246" y="400" type="line"/>
+      <point x="64" y="432" type="line"/>
+      <point x="64" y="288" type="line"/>
+      <point x="246" y="320" type="line"/>
+      <point x="214" y="88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|uni2E50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni2E50</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+    </dict>
+  </lib>
+</glyph>

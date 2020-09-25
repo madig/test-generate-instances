@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongravecomb" format="2">
+  <unicode hex="1DC6"/>
+  <anchor x="0" y="527" name="_top"/>
+  <anchor x="0" y="696" name="top"/>
+  <outline>
+    <contour>
+      <point x="-88" y="696" type="line"/>
+      <point x="-88" y="671" type="line"/>
+      <point x="1" y="671" type="line"/>
+      <point x="73" y="617" type="line"/>
+      <point x="88" y="637" type="line"/>
+      <point x="8" y="696" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

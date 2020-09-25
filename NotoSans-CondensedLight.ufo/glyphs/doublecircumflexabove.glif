@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doublecircumflexabove" format="2">
+  <unicode hex="1DCD"/>
+  <anchor x="-299" y="527" name="_top"/>
+  <anchor x="1" y="762" name="top"/>
+  <outline>
+    <contour>
+      <point x="9" y="762" type="curve"/>
+      <point x="-6" y="762" type="line"/>
+      <point x="-83" y="720"/>
+      <point x="-246" y="653"/>
+      <point x="-349" y="616" type="curve"/>
+      <point x="-349" y="600" type="line"/>
+      <point x="-339" y="600" type="line"/>
+      <point x="-220" y="637"/>
+      <point x="-108" y="684"/>
+      <point x="0" y="734" type="curve"/>
+      <point x="101" y="687"/>
+      <point x="215" y="638"/>
+      <point x="340" y="600" type="curve"/>
+      <point x="350" y="600" type="line"/>
+      <point x="350" y="616" type="line"/>
+      <point x="185" y="681"/>
+      <point x="70" y="725"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

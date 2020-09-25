@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02BF" format="2">
+  <advance width="191"/>
+  <unicode hex="02BF"/>
+  <outline>
+    <contour>
+      <point x="161" y="575" type="curve"/>
+      <point x="161" y="660" type="line"/>
+      <point x="144" y="660"/>
+      <point x="127" y="674"/>
+      <point x="127" y="695" type="curve"/>
+      <point x="127" y="716"/>
+      <point x="141" y="730"/>
+      <point x="161" y="730" type="curve"/>
+      <point x="161" y="816" type="line"/>
+      <point x="89" y="816"/>
+      <point x="30" y="770"/>
+      <point x="30" y="694" type="curve"/>
+      <point x="30" y="621"/>
+      <point x="90" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

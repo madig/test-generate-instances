@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7F6" format="2">
+  <advance width="435"/>
+  <unicode hex="A7F6"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="217" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="318" y="528" type="line"/>
+      <point x="318" y="289" type="line"/>
+      <point x="42" y="289" type="line"/>
+      <point x="42" y="264" type="line"/>
+      <point x="318" y="264" type="line"/>
+      <point x="318" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|uni2C76</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni2C76</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="255"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="234" y="714" type="curve"/>
+      <point x="213" y="714" type="line"/>
+      <point x="182" y="642"/>
+      <point x="162" y="573"/>
+      <point x="144" y="506" type="curve"/>
+      <point x="152" y="495" type="line"/>
+      <point x="182" y="495" type="line"/>
+      <point x="192" y="567"/>
+      <point x="209" y="631"/>
+    </contour>
+    <contour>
+      <point x="111" y="714" type="curve"/>
+      <point x="90" y="714" type="line"/>
+      <point x="59" y="642"/>
+      <point x="39" y="573"/>
+      <point x="21" y="506" type="curve"/>
+      <point x="29" y="495" type="line"/>
+      <point x="59" y="495" type="line"/>
+      <point x="69" y="567"/>
+      <point x="86" y="631"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:54</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Quote</string>
+    </dict>
+  </lib>
+</glyph>

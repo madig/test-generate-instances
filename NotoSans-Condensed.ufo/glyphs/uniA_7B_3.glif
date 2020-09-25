@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7B3" format="2">
+  <advance width="488"/>
+  <unicode hex="A7B3"/>
+  <outline>
+    <contour>
+      <point x="81" y="725" type="curve" smooth="yes"/>
+      <point x="58" y="725"/>
+      <point x="41" y="718"/>
+      <point x="24" y="710" type="curve"/>
+      <point x="24" y="647" type="line"/>
+      <point x="42" y="654"/>
+      <point x="54" y="656"/>
+      <point x="65" y="656" type="curve" smooth="yes"/>
+      <point x="89" y="656"/>
+      <point x="101" y="625"/>
+      <point x="115" y="569" type="curve" smooth="yes"/>
+      <point x="200" y="271" type="line"/>
+      <point x="-12" y="-239" type="line"/>
+      <point x="76" y="-239" type="line"/>
+      <point x="238" y="179" type="line"/>
+      <point x="306" y="-76" type="line" smooth="yes"/>
+      <point x="336" y="-193"/>
+      <point x="356" y="-240"/>
+      <point x="418" y="-240" type="curve" smooth="yes"/>
+      <point x="442" y="-240"/>
+      <point x="460" y="-236"/>
+      <point x="480" y="-228" type="curve"/>
+      <point x="480" y="-165" type="line"/>
+      <point x="465" y="-170"/>
+      <point x="453" y="-171"/>
+      <point x="445" y="-171" type="curve" smooth="yes"/>
+      <point x="418" y="-171"/>
+      <point x="408" y="-154"/>
+      <point x="384" y="-72" type="curve" smooth="yes"/>
+      <point x="284" y="266" type="line"/>
+      <point x="461" y="714" type="line"/>
+      <point x="373" y="714" type="line"/>
+      <point x="248" y="358" type="line"/>
+      <point x="179" y="618" type="line" smooth="yes"/>
+      <point x="165" y="694"/>
+      <point x="139" y="725"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

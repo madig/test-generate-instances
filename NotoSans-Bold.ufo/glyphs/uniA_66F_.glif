@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA66F" format="2">
+  <unicode hex="A66F"/>
+  <anchor x="2" y="499" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-161" y="601" type="curve"/>
+      <point x="164" y="601" type="line"/>
+      <point x="167" y="575"/>
+      <point x="194" y="559"/>
+      <point x="228" y="559" type="curve" smooth="yes"/>
+      <point x="274" y="559"/>
+      <point x="295" y="587"/>
+      <point x="295" y="632" type="curve" smooth="yes"/>
+      <point x="295" y="673"/>
+      <point x="281" y="716"/>
+      <point x="213" y="716" type="curve" smooth="yes"/>
+      <point x="-211" y="716" type="line"/>
+      <point x="-270" y="716"/>
+      <point x="-292" y="683"/>
+      <point x="-292" y="634" type="curve" smooth="yes"/>
+      <point x="-292" y="598"/>
+      <point x="-270" y="559"/>
+      <point x="-226" y="559" type="curve" smooth="yes"/>
+      <point x="-190" y="559"/>
+      <point x="-166" y="570"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

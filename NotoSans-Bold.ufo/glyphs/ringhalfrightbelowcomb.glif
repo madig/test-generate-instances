@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfrightbelowcomb" format="2">
+  <unicode hex="0339"/>
+  <anchor x="-1" y="0" name="_bottom"/>
+  <anchor x="2" y="-250" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-65" y="-14" type="curve"/>
+      <point x="-65" y="-95" type="line"/>
+      <point x="-43" y="-95"/>
+      <point x="-23" y="-110"/>
+      <point x="-23" y="-132" type="curve"/>
+      <point x="-23" y="-153"/>
+      <point x="-34" y="-168"/>
+      <point x="-65" y="-168" type="curve"/>
+      <point x="-65" y="-250" type="line"/>
+      <point x="12" y="-250"/>
+      <point x="64" y="-204"/>
+      <point x="64" y="-132" type="curve"/>
+      <point x="64" y="-60"/>
+      <point x="12" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

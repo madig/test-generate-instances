@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="485"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="91" y="681" type="curve" smooth="yes"/>
+      <point x="91" y="638"/>
+      <point x="115" y="615"/>
+      <point x="151" y="615" type="curve" smooth="yes"/>
+      <point x="188" y="615"/>
+      <point x="212" y="640"/>
+      <point x="212" y="681" type="curve" smooth="yes"/>
+      <point x="212" y="723"/>
+      <point x="188" y="748"/>
+      <point x="151" y="748" type="curve" smooth="yes"/>
+      <point x="115" y="748"/>
+      <point x="91" y="725"/>
+    </contour>
+    <contour>
+      <point x="272" y="681" type="curve" smooth="yes"/>
+      <point x="272" y="639"/>
+      <point x="296" y="615"/>
+      <point x="333" y="615" type="curve" smooth="yes"/>
+      <point x="370" y="615"/>
+      <point x="394" y="640"/>
+      <point x="394" y="681" type="curve" smooth="yes"/>
+      <point x="394" y="723"/>
+      <point x="370" y="748"/>
+      <point x="333" y="748" type="curve" smooth="yes"/>
+      <point x="296" y="748"/>
+      <point x="272" y="725"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:51</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

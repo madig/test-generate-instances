@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20A6" format="2">
+  <advance width="572"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="240" type="line"/>
+      <point x="262" y="240" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="240" type="line"/>
+      <point x="562" y="240" type="line"/>
+      <point x="562" y="321" type="line"/>
+      <point x="519" y="321" type="line"/>
+      <point x="519" y="386" type="line"/>
+      <point x="562" y="386" type="line"/>
+      <point x="562" y="467" type="line"/>
+      <point x="519" y="467" type="line"/>
+      <point x="519" y="714" type="line"/>
+      <point x="387" y="714" type="line"/>
+      <point x="387" y="467" type="line"/>
+      <point x="311" y="467" type="line"/>
+      <point x="246" y="714" type="line"/>
+      <point x="55" y="714" type="line"/>
+      <point x="55" y="467" type="line"/>
+      <point x="10" y="467" type="line"/>
+      <point x="10" y="386" type="line"/>
+      <point x="55" y="386" type="line"/>
+      <point x="55" y="321" type="line"/>
+      <point x="10" y="321" type="line"/>
+      <point x="10" y="240" type="line"/>
+      <point x="55" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="321" type="line"/>
+      <point x="184" y="386" type="line"/>
+      <point x="225" y="386" type="line"/>
+      <point x="240" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="146" type="line"/>
+      <point x="367" y="240" type="line"/>
+      <point x="392" y="240" type="line"/>
+      <point x="396" y="146" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="467" type="line"/>
+      <point x="177" y="567" type="line"/>
+      <point x="181" y="567" type="line"/>
+      <point x="206" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="321" type="line"/>
+      <point x="332" y="386" type="line"/>
+      <point x="387" y="386" type="line"/>
+      <point x="389" y="321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

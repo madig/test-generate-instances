@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04FF" format="2">
+  <advance width="373"/>
+  <unicode hex="04FF"/>
+  <anchor x="187" y="0" name="bottom"/>
+  <anchor x="187" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="43" y="310" type="line"/>
+      <point x="43" y="243" type="line"/>
+      <point x="123" y="243" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="186" y="211" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="251" y="243" type="line"/>
+      <point x="333" y="243" type="line"/>
+      <point x="333" y="310" type="line"/>
+      <point x="252" y="310" type="line"/>
+      <point x="355" y="537" type="line"/>
+      <point x="269" y="537" type="line"/>
+      <point x="188" y="339" type="line"/>
+      <point x="109" y="537" type="line"/>
+      <point x="22" y="537" type="line"/>
+      <point x="122" y="310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:55</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

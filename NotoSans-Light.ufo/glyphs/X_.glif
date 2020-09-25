@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="509"/>
+  <unicode hex="0058"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="255" y="714" name="top"/>
+  <anchor x="489" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="512" y="0" type="line"/>
+      <point x="274" y="370" type="line"/>
+      <point x="494" y="714" type="line"/>
+      <point x="463" y="714" type="line"/>
+      <point x="257" y="390" type="line"/>
+      <point x="53" y="714" type="line"/>
+      <point x="22" y="714" type="line"/>
+      <point x="239" y="370" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="256" y="350" type="line"/>
+      <point x="481" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:50</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA692" format="2">
+  <advance width="909"/>
+  <unicode hex="A692"/>
+  <outline>
+    <contour>
+      <point x="20" y="588" type="line"/>
+      <point x="559" y="588" type="line"/>
+      <point x="559" y="714" type="line"/>
+      <point x="20" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="819" y="0" type="line"/>
+      <point x="819" y="714" type="line"/>
+      <point x="668" y="714" type="line"/>
+      <point x="668" y="394" type="line"/>
+      <point x="591" y="370"/>
+      <point x="532" y="358"/>
+      <point x="470" y="358" type="curve" smooth="yes"/>
+      <point x="394" y="358"/>
+      <point x="365" y="393"/>
+      <point x="365" y="462" type="curve" smooth="yes"/>
+      <point x="365" y="714" type="line"/>
+      <point x="214" y="714" type="line"/>
+      <point x="214" y="419" type="line" smooth="yes"/>
+      <point x="214" y="299"/>
+      <point x="293" y="232"/>
+      <point x="427" y="232" type="curve" smooth="yes"/>
+      <point x="504" y="232"/>
+      <point x="576" y="247"/>
+      <point x="668" y="276" type="curve"/>
+      <point x="668" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:05</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7AE" format="2">
+  <advance width="416"/>
+  <unicode hex="A7AE"/>
+  <outline>
+    <contour>
+      <point x="414" y="0" type="line"/>
+      <point x="414" y="110" type="line"/>
+      <point x="305" y="144" type="line"/>
+      <point x="305" y="571" type="line"/>
+      <point x="414" y="604" type="line"/>
+      <point x="414" y="714" type="line"/>
+      <point x="2" y="714" type="line"/>
+      <point x="2" y="604" type="line"/>
+      <point x="111" y="571" type="line"/>
+      <point x="111" y="144" type="line"/>
+      <point x="2" y="110" type="line"/>
+      <point x="2" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

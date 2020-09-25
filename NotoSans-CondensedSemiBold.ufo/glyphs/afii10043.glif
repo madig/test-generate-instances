@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10043" format="2">
+  <advance width="869"/>
+  <unicode hex="0429"/>
+  <anchor x="435" y="0" name="bottom"/>
+  <anchor x="435" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="852" y="119" type="line"/>
+      <point x="769" y="119" type="line"/>
+      <point x="769" y="714" type="line"/>
+      <point x="633" y="714" type="line"/>
+      <point x="633" y="119" type="line"/>
+      <point x="484" y="119" type="line"/>
+      <point x="484" y="714" type="line"/>
+      <point x="348" y="714" type="line"/>
+      <point x="348" y="119" type="line"/>
+      <point x="201" y="119" type="line"/>
+      <point x="201" y="714" type="line"/>
+      <point x="64" y="714" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="719" y="0" type="line"/>
+      <point x="719" y="-211" type="line"/>
+      <point x="852" y="-211" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:53</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02AB" format="2">
+  <advance width="589"/>
+  <unicode hex="02AB"/>
+  <anchor x="389" y="0" name="bottom"/>
+  <anchor x="389" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="572" y="135" type="line"/>
+      <point x="397" y="135" type="line"/>
+      <point x="564" y="446" type="line"/>
+      <point x="564" y="553" type="line"/>
+      <point x="212" y="553" type="line"/>
+      <point x="212" y="760" type="line"/>
+      <point x="50" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="105" type="line"/>
+      <point x="212" y="418" type="line"/>
+      <point x="383" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA746" format="2">
+  <advance width="449"/>
+  <unicode hex="A746"/>
+  <outline>
+    <contour>
+      <point x="234" y="76" type="line"/>
+      <point x="234" y="493" type="line"/>
+      <point x="157" y="462" type="line"/>
+      <point x="157" y="714" type="line"/>
+      <point x="73" y="714" type="line"/>
+      <point x="73" y="364" type="line"/>
+      <point x="150" y="394" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="431" y="76" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

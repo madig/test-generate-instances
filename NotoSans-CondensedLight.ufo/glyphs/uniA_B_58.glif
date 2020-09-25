@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB58" format="2">
+  <advance width="436"/>
+  <unicode hex="AB58"/>
+  <outline>
+    <contour>
+      <point x="-88" y="-240" type="line"/>
+      <point x="-60" y="-240" type="line"/>
+      <point x="162" y="247" type="line"/>
+      <point x="253" y="44" type="line" smooth="yes"/>
+      <point x="268" y="10"/>
+      <point x="298" y="-5"/>
+      <point x="334" y="-5" type="curve" smooth="yes"/>
+      <point x="384" y="-5"/>
+      <point x="420" y="28"/>
+      <point x="420" y="80" type="curve" smooth="yes"/>
+      <point x="420" y="133"/>
+      <point x="382" y="167"/>
+      <point x="332" y="167" type="curve" smooth="yes"/>
+      <point x="293" y="167"/>
+      <point x="262" y="143"/>
+      <point x="251" y="107" type="curve"/>
+      <point x="179" y="270" type="line"/>
+      <point x="296" y="527" type="line"/>
+      <point x="268" y="527" type="line"/>
+      <point x="163" y="295" type="line"/>
+      <point x="60" y="527" type="line"/>
+      <point x="32" y="527" type="line"/>
+      <point x="146" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="80" type="curve" smooth="yes"/>
+      <point x="398" y="42"/>
+      <point x="373" y="16"/>
+      <point x="334" y="16" type="curve" smooth="yes"/>
+      <point x="291" y="16"/>
+      <point x="268" y="46"/>
+      <point x="268" y="81" type="curve" smooth="yes"/>
+      <point x="268" y="118"/>
+      <point x="291" y="146"/>
+      <point x="332" y="146" type="curve" smooth="yes"/>
+      <point x="372" y="146"/>
+      <point x="398" y="119"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

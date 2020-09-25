@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ABE" format="2">
+  <unicode hex="1ABE"/>
+  <anchor x="-1" y="219" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-411" y="218" type="curve" smooth="yes"/>
+      <point x="-411" y="176"/>
+      <point x="-399" y="137"/>
+      <point x="-373" y="107" type="curve"/>
+      <point x="-304" y="107" type="line"/>
+      <point x="-327" y="138"/>
+      <point x="-339" y="178"/>
+      <point x="-339" y="218" type="curve" smooth="yes"/>
+      <point x="-339" y="259"/>
+      <point x="-327" y="299"/>
+      <point x="-304" y="331" type="curve"/>
+      <point x="-373" y="331" type="line"/>
+      <point x="-399" y="300"/>
+      <point x="-411" y="260"/>
+    </contour>
+    <contour>
+      <point x="410" y="218" type="curve" smooth="yes"/>
+      <point x="410" y="260"/>
+      <point x="398" y="300"/>
+      <point x="372" y="331" type="curve"/>
+      <point x="303" y="331" type="line"/>
+      <point x="326" y="299"/>
+      <point x="338" y="259"/>
+      <point x="338" y="218" type="curve" smooth="yes"/>
+      <point x="338" y="178"/>
+      <point x="326" y="138"/>
+      <point x="303" y="107" type="curve"/>
+      <point x="372" y="107" type="line"/>
+      <point x="398" y="137"/>
+      <point x="410" y="176"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Enclosing</string>
+    </dict>
+  </lib>
+</glyph>

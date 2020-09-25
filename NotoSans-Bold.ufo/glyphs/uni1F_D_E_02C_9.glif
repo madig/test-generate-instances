@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FDE02C9" format="2">
+  <advance width="400"/>
+  <anchor x="203" y="553" name="_top"/>
+  <anchor x="213" y="877" name="top"/>
+  <outline>
+    <contour>
+      <point x="209" y="718" type="curve"/>
+      <point x="209" y="706" type="line"/>
+      <point x="299" y="706" type="line"/>
+      <point x="332" y="745"/>
+      <point x="378" y="814"/>
+      <point x="399" y="857" type="curve"/>
+      <point x="399" y="867" type="line"/>
+      <point x="247" y="867" type="line"/>
+      <point x="237" y="816"/>
+      <point x="219" y="750"/>
+    </contour>
+    <contour>
+      <point x="22" y="573" type="line"/>
+      <point x="376" y="573" type="line"/>
+      <point x="376" y="681" type="line"/>
+      <point x="22" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="696" type="curve"/>
+      <point x="188" y="741" type="line"/>
+      <point x="156" y="744"/>
+      <point x="129" y="755"/>
+      <point x="129" y="779" type="curve"/>
+      <point x="168" y="781"/>
+      <point x="181" y="801"/>
+      <point x="181" y="829" type="curve"/>
+      <point x="181" y="858"/>
+      <point x="158" y="877"/>
+      <point x="121" y="877" type="curve"/>
+      <point x="72" y="877"/>
+      <point x="45" y="844"/>
+      <point x="45" y="800" type="curve"/>
+      <point x="45" y="752"/>
+      <point x="100" y="694"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA758" format="2">
+  <advance width="785"/>
+  <unicode hex="A758"/>
+  <outline>
+    <contour>
+      <point x="710" y="238" type="curve" smooth="yes"/>
+      <point x="710" y="194"/>
+      <point x="691" y="158"/>
+      <point x="630" y="119" type="curve" smooth="yes"/>
+      <point x="240" y="-133" type="line"/>
+      <point x="282" y="-199" type="line"/>
+      <point x="670" y="50" type="line" smooth="yes"/>
+      <point x="744" y="97"/>
+      <point x="790" y="139"/>
+      <point x="790" y="243" type="curve" smooth="yes"/>
+      <point x="790" y="330"/>
+      <point x="738" y="390"/>
+      <point x="644" y="390" type="curve"/>
+      <point x="643" y="312" type="line"/>
+      <point x="693" y="312"/>
+      <point x="710" y="275"/>
+    </contour>
+    <component base="Q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Q</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

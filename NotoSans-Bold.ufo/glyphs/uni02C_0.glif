@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02C0" format="2">
+  <advance width="330"/>
+  <unicode hex="02C0"/>
+  <outline>
+    <contour>
+      <point x="70" y="561" type="curve"/>
+      <point x="70" y="449" type="line"/>
+      <point x="197" y="449" type="line"/>
+      <point x="197" y="498" type="line"/>
+      <point x="278" y="522"/>
+      <point x="310" y="569"/>
+      <point x="310" y="628" type="curve"/>
+      <point x="310" y="705"/>
+      <point x="261" y="766"/>
+      <point x="142" y="766" type="curve"/>
+      <point x="87" y="766"/>
+      <point x="42" y="755"/>
+      <point x="8" y="736" type="curve"/>
+      <point x="49" y="639" type="line"/>
+      <point x="73" y="654"/>
+      <point x="97" y="665"/>
+      <point x="125" y="665" type="curve"/>
+      <point x="143" y="665"/>
+      <point x="160" y="651"/>
+      <point x="160" y="624" type="curve"/>
+      <point x="160" y="597"/>
+      <point x="130" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

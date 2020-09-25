@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB61" format="2">
+  <advance width="609"/>
+  <unicode hex="AB61"/>
+  <outline>
+    <contour>
+      <point x="258" y="252" type="line"/>
+      <point x="259" y="318" type="line"/>
+      <point x="140" y="318" type="line"/>
+      <point x="140" y="536" type="line"/>
+      <point x="59" y="536" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="252" type="line"/>
+    </contour>
+    <component base="e" xOffset="191"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

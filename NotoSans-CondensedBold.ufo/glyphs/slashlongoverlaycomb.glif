@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongoverlaycomb" format="2">
+  <unicode hex="0338"/>
+  <anchor x="-1" y="352" name="_center"/>
+  <outline>
+    <contour>
+      <point x="176" y="761" type="line"/>
+      <point x="83" y="761" type="line"/>
+      <point x="-177" y="-58" type="line"/>
+      <point x="-84" y="-58" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

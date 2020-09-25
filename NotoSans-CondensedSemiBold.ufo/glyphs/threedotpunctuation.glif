@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotpunctuation" format="2">
+  <advance width="556"/>
+  <unicode hex="2056"/>
+  <outline>
+    <contour>
+      <point x="335" y="61" type="curve" smooth="yes"/>
+      <point x="335" y="4"/>
+      <point x="373" y="-20"/>
+      <point x="421" y="-20" type="curve" smooth="yes"/>
+      <point x="468" y="-20"/>
+      <point x="505" y="4"/>
+      <point x="505" y="61" type="curve" smooth="yes"/>
+      <point x="505" y="119"/>
+      <point x="468" y="142"/>
+      <point x="421" y="142" type="curve" smooth="yes"/>
+      <point x="373" y="142"/>
+      <point x="335" y="119"/>
+    </contour>
+    <contour>
+      <point x="335" y="652" type="curve" smooth="yes"/>
+      <point x="335" y="595"/>
+      <point x="373" y="571"/>
+      <point x="421" y="571" type="curve" smooth="yes"/>
+      <point x="468" y="571"/>
+      <point x="505" y="595"/>
+      <point x="505" y="652" type="curve" smooth="yes"/>
+      <point x="505" y="711"/>
+      <point x="468" y="733"/>
+      <point x="421" y="733" type="curve" smooth="yes"/>
+      <point x="373" y="733"/>
+      <point x="335" y="711"/>
+    </contour>
+    <contour>
+      <point x="51" y="355" type="curve" smooth="yes"/>
+      <point x="51" y="299"/>
+      <point x="89" y="275"/>
+      <point x="137" y="275" type="curve" smooth="yes"/>
+      <point x="184" y="275"/>
+      <point x="221" y="299"/>
+      <point x="221" y="355" type="curve" smooth="yes"/>
+      <point x="221" y="414"/>
+      <point x="184" y="437"/>
+      <point x="137" y="437" type="curve" smooth="yes"/>
+      <point x="89" y="437"/>
+      <point x="51" y="414"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

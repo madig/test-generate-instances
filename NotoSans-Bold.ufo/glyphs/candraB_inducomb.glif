@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="candraBinducomb" format="2">
+  <unicode hex="0310"/>
+  <anchor x="0" y="553" name="_top"/>
+  <anchor x="2" y="859" name="top"/>
+  <outline>
+    <contour>
+      <point x="191" y="791" type="curve"/>
+      <point x="103" y="791" type="line"/>
+      <point x="98" y="739"/>
+      <point x="56" y="695"/>
+      <point x="-1" y="695" type="curve"/>
+      <point x="-55" y="695"/>
+      <point x="-101" y="734"/>
+      <point x="-105" y="791" type="curve"/>
+      <point x="-191" y="791" type="line"/>
+      <point x="-186" y="679"/>
+      <point x="-127" y="606"/>
+      <point x="-1" y="606" type="curve"/>
+      <point x="119" y="606"/>
+      <point x="184" y="683"/>
+    </contour>
+    <contour>
+      <point x="-4" y="859" type="curve"/>
+      <point x="-48" y="859"/>
+      <point x="-74" y="837"/>
+      <point x="-74" y="795" type="curve"/>
+      <point x="-74" y="755"/>
+      <point x="-48" y="732"/>
+      <point x="-4" y="732" type="curve"/>
+      <point x="40" y="732"/>
+      <point x="68" y="755"/>
+      <point x="68" y="795" type="curve"/>
+      <point x="68" y="837"/>
+      <point x="40" y="859"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:09</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

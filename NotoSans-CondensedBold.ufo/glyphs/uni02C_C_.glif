@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02CC" format="2">
+  <advance width="177"/>
+  <unicode hex="02CC"/>
+  <anchor x="88" y="-262" name="_top"/>
+  <anchor x="91" y="60" name="top"/>
+  <outline>
+    <contour>
+      <point x="137" y="60" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="40" y="-219" type="line"/>
+      <point x="137" y="-219" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dotaccent</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dotaccent</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

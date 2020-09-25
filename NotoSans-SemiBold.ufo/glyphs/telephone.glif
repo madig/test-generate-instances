@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="telephone" format="2">
+  <advance width="773"/>
+  <unicode hex="2121"/>
+  <outline>
+    <contour>
+      <point x="118" y="362" type="line"/>
+      <point x="181" y="362" type="line"/>
+      <point x="181" y="660" type="line"/>
+      <point x="283" y="660" type="line"/>
+      <point x="283" y="714" type="line"/>
+      <point x="17" y="714" type="line"/>
+      <point x="17" y="660" type="line"/>
+      <point x="118" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="362" type="line"/>
+      <point x="512" y="362" type="line"/>
+      <point x="512" y="416" type="line"/>
+      <point x="378" y="416" type="line"/>
+      <point x="378" y="519" type="line"/>
+      <point x="502" y="519" type="line"/>
+      <point x="502" y="571" type="line"/>
+      <point x="378" y="571" type="line"/>
+      <point x="378" y="660" type="line"/>
+      <point x="512" y="660" type="line"/>
+      <point x="512" y="714" type="line"/>
+      <point x="315" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="362" type="line"/>
+      <point x="760" y="362" type="line"/>
+      <point x="760" y="416" type="line"/>
+      <point x="626" y="416" type="line"/>
+      <point x="626" y="714" type="line"/>
+      <point x="563" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>trademark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:08</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

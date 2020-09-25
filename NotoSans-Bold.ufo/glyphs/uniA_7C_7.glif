@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7C7" format="2">
+  <advance width="734"/>
+  <unicode hex="A7C7"/>
+  <outline>
+    <contour>
+      <point x="177" y="320" type="line"/>
+      <point x="562" y="320" type="line"/>
+      <point x="562" y="405" type="line"/>
+      <point x="177" y="405" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+    </dict>
+  </lib>
+</glyph>

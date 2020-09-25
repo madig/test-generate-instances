@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="isbelowcomb" format="2">
+  <unicode hex="1DD0"/>
+  <anchor x="-1" y="0" name="_bottom"/>
+  <anchor x="2" y="-240" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="260" y="-119" type="curve" smooth="yes"/>
+      <point x="260" y="-61"/>
+      <point x="219" y="-16"/>
+      <point x="167" y="0" type="curve"/>
+      <point x="134" y="-58" type="line"/>
+      <point x="156" y="-66"/>
+      <point x="181" y="-78"/>
+      <point x="181" y="-107" type="curve" smooth="yes"/>
+      <point x="181" y="-131"/>
+      <point x="163" y="-147"/>
+      <point x="136" y="-147" type="curve" smooth="yes"/>
+      <point x="75" y="-147"/>
+      <point x="42" y="-85"/>
+      <point x="-49" y="-85" type="curve" smooth="yes"/>
+      <point x="-121" y="-85"/>
+      <point x="-199" y="-156"/>
+      <point x="-261" y="-236" type="curve"/>
+      <point x="-174" y="-236" type="line"/>
+      <point x="-156" y="-202"/>
+      <point x="-132" y="-164"/>
+      <point x="-84" y="-164" type="curve" smooth="yes"/>
+      <point x="-26" y="-164"/>
+      <point x="34" y="-240"/>
+      <point x="137" y="-240" type="curve" smooth="yes"/>
+      <point x="218" y="-240"/>
+      <point x="260" y="-189"/>
+    </contour>
+    <contour>
+      <point x="-136" y="0" type="line"/>
+      <point x="-261" y="-236" type="line"/>
+      <point x="-174" y="-236" type="line"/>
+      <point x="-50" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

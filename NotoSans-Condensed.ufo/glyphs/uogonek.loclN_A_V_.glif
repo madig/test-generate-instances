@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uogonek.loclNAV" format="2">
+  <advance width="456"/>
+  <anchor x="219" y="-224" name="bottom"/>
+  <anchor x="229" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="269" y="-224" type="curve" smooth="yes"/>
+      <point x="289" y="-224"/>
+      <point x="305" y="-221"/>
+      <point x="316" y="-216" type="curve"/>
+      <point x="316" y="-160" type="line"/>
+      <point x="309" y="-163"/>
+      <point x="300" y="-166"/>
+      <point x="285" y="-166" type="curve" smooth="yes"/>
+      <point x="256" y="-166"/>
+      <point x="240" y="-149"/>
+      <point x="240" y="-117" type="curve" smooth="yes"/>
+      <point x="240" y="-63"/>
+      <point x="254" y="-14"/>
+      <point x="299" y="49" type="curve"/>
+      <point x="254" y="60" type="line"/>
+      <point x="209" y="1"/>
+      <point x="173" y="-66"/>
+      <point x="173" y="-131" type="curve" smooth="yes"/>
+      <point x="173" y="-192"/>
+      <point x="205" y="-224"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.sc" format="2">
+  <advance width="572"/>
+  <anchor x="286" y="559" name="_top"/>
+  <anchor x="286" y="780" name="top"/>
+  <outline>
+    <contour>
+      <point x="300" y="780" type="curve"/>
+      <point x="270" y="780" type="line"/>
+      <point x="244" y="737"/>
+      <point x="190" y="667"/>
+      <point x="155" y="627" type="curve"/>
+      <point x="155" y="620" type="line"/>
+      <point x="171" y="620" type="line"/>
+      <point x="210" y="657"/>
+      <point x="247" y="702"/>
+      <point x="285" y="744" type="curve"/>
+      <point x="317" y="704"/>
+      <point x="357" y="660"/>
+      <point x="399" y="620" type="curve"/>
+      <point x="416" y="620" type="line"/>
+      <point x="416" y="627" type="line"/>
+      <point x="357" y="693"/>
+      <point x="321" y="742"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

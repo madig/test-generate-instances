@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="homotheticabovecomb" format="2">
+  <unicode hex="034B"/>
+  <anchor x="-1" y="507" name="_top"/>
+  <anchor x="2" y="937" name="top"/>
+  <outline>
+    <contour>
+      <point x="147" y="813" type="curve"/>
+      <point x="87" y="813" type="line"/>
+      <point x="85" y="781"/>
+      <point x="71" y="769"/>
+      <point x="59" y="769" type="curve" smooth="yes"/>
+      <point x="25" y="769"/>
+      <point x="-21" y="812"/>
+      <point x="-59" y="812" type="curve" smooth="yes"/>
+      <point x="-111" y="812"/>
+      <point x="-143" y="770"/>
+      <point x="-148" y="687" type="curve"/>
+      <point x="-88" y="687" type="line"/>
+      <point x="-85" y="720"/>
+      <point x="-71" y="730"/>
+      <point x="-60" y="730" type="curve" smooth="yes"/>
+      <point x="-27" y="730"/>
+      <point x="18" y="688"/>
+      <point x="62" y="688" type="curve" smooth="yes"/>
+      <point x="107" y="688"/>
+      <point x="144" y="729"/>
+    </contour>
+    <contour>
+      <point x="2" y="669" type="curve" smooth="yes"/>
+      <point x="-25" y="669"/>
+      <point x="-42" y="652"/>
+      <point x="-42" y="616" type="curve" smooth="yes"/>
+      <point x="-42" y="581"/>
+      <point x="-25" y="563"/>
+      <point x="2" y="563" type="curve" smooth="yes"/>
+      <point x="28" y="563"/>
+      <point x="47" y="582"/>
+      <point x="47" y="616" type="curve" smooth="yes"/>
+      <point x="47" y="652"/>
+      <point x="28" y="669"/>
+    </contour>
+    <contour>
+      <point x="2" y="937" type="curve" smooth="yes"/>
+      <point x="-25" y="937"/>
+      <point x="-42" y="919"/>
+      <point x="-42" y="883" type="curve" smooth="yes"/>
+      <point x="-42" y="847"/>
+      <point x="-25" y="830"/>
+      <point x="2" y="830" type="curve" smooth="yes"/>
+      <point x="28" y="830"/>
+      <point x="47" y="849"/>
+      <point x="47" y="883" type="curve" smooth="yes"/>
+      <point x="47" y="919"/>
+      <point x="28" y="937"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

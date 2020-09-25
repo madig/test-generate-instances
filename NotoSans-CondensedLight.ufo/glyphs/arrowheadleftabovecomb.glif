@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowheadleftabovecomb" format="2">
+  <unicode hex="1DFE"/>
+  <anchor x="2" y="527" name="_top"/>
+  <anchor x="2" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="45" y="589" type="curve"/>
+      <point x="51" y="589" type="line"/>
+      <point x="51" y="609" type="line"/>
+      <point x="31" y="635"/>
+      <point x="3" y="665"/>
+      <point x="-20" y="689" type="curve"/>
+      <point x="2" y="711"/>
+      <point x="29" y="740"/>
+      <point x="51" y="768" type="curve"/>
+      <point x="51" y="790" type="line"/>
+      <point x="45" y="790" type="line"/>
+      <point x="4" y="748"/>
+      <point x="-21" y="723"/>
+      <point x="-48" y="700" type="curve"/>
+      <point x="-48" y="678" type="line"/>
+      <point x="-21" y="655"/>
+      <point x="20" y="615"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

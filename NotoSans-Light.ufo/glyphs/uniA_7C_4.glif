@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7C4" format="2">
+  <advance width="614"/>
+  <unicode hex="A7C4"/>
+  <outline>
+    <contour>
+      <point x="544" y="19" type="line"/>
+      <point x="544" y="-81" type="line" smooth="yes"/>
+      <point x="544" y="-125"/>
+      <point x="530" y="-144"/>
+      <point x="496" y="-144" type="curve" smooth="yes"/>
+      <point x="481" y="-144"/>
+      <point x="468" y="-140"/>
+      <point x="457" y="-135" type="curve"/>
+      <point x="457" y="-160" type="line"/>
+      <point x="466" y="-165"/>
+      <point x="479" y="-169"/>
+      <point x="496" y="-169" type="curve" smooth="yes"/>
+      <point x="545" y="-169"/>
+      <point x="570" y="-139"/>
+      <point x="570" y="-84" type="curve" smooth="yes"/>
+      <point x="570" y="39" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+    </dict>
+  </lib>
+</glyph>

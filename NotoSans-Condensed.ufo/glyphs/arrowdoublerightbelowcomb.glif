@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowdoublerightbelowcomb" format="2">
+  <unicode hex="0362"/>
+  <anchor x="-180" y="0" name="_bottom"/>
+  <anchor x="22" y="-210" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-254" y="-103" type="line"/>
+      <point x="-254" y="-151" type="line"/>
+      <point x="206" y="-151" type="line"/>
+      <point x="206" y="-210" type="line"/>
+      <point x="294" y="-128" type="line"/>
+      <point x="206" y="-44" type="line"/>
+      <point x="206" y="-103" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

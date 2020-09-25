@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="-263" y="553" name="_top"/>
+  <anchor x="-263" y="766" name="top"/>
+  <outline>
+    <contour>
+      <point x="-196" y="766" type="curve"/>
+      <point x="-341" y="766" type="line"/>
+      <point x="-341" y="756" type="line"/>
+      <point x="-324" y="718"/>
+      <point x="-262" y="653"/>
+      <point x="-202" y="606" type="curve"/>
+      <point x="-126" y="606" type="line"/>
+      <point x="-126" y="620" type="line"/>
+      <point x="-163" y="693"/>
+      <point x="-186" y="742"/>
+    </contour>
+    <contour>
+      <point x="-374" y="766" type="curve"/>
+      <point x="-520" y="766" type="line"/>
+      <point x="-520" y="756" type="line"/>
+      <point x="-505" y="722"/>
+      <point x="-429" y="644"/>
+      <point x="-387" y="606" type="curve"/>
+      <point x="-304" y="606" type="line"/>
+      <point x="-304" y="620" type="line"/>
+      <point x="-340" y="692"/>
+      <point x="-363" y="741"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:09</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

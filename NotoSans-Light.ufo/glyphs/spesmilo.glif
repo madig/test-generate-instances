@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="spesmilo" format="2">
+  <advance width="720"/>
+  <unicode hex="20B7"/>
+  <outline>
+    <contour>
+      <point x="454" y="375" type="curve" smooth="yes"/>
+      <point x="351" y="407"/>
+      <point x="268" y="437"/>
+      <point x="268" y="546" type="curve" smooth="yes"/>
+      <point x="268" y="653"/>
+      <point x="357" y="699"/>
+      <point x="466" y="699" type="curve" smooth="yes"/>
+      <point x="519" y="699"/>
+      <point x="575" y="691"/>
+      <point x="637" y="664" type="curve"/>
+      <point x="648" y="687" type="line"/>
+      <point x="589" y="713"/>
+      <point x="531" y="724"/>
+      <point x="468" y="724" type="curve" smooth="yes"/>
+      <point x="339" y="724"/>
+      <point x="241" y="664"/>
+      <point x="241" y="544" type="curve" smooth="yes"/>
+      <point x="241" y="425"/>
+      <point x="324" y="389"/>
+      <point x="440" y="352" type="curve" smooth="yes"/>
+      <point x="563" y="313"/>
+      <point x="639" y="280"/>
+      <point x="639" y="181" type="curve" smooth="yes"/>
+      <point x="639" y="73"/>
+      <point x="571" y="14"/>
+      <point x="315" y="16" type="curve" smooth="yes"/>
+      <point x="235" y="18"/>
+      <point x="172" y="28"/>
+      <point x="124" y="52" type="curve" smooth="yes"/>
+      <point x="70" y="79"/>
+      <point x="50" y="115"/>
+      <point x="50" y="164" type="curve" smooth="yes"/>
+      <point x="50" y="187"/>
+      <point x="59" y="206"/>
+      <point x="81" y="206" type="curve" smooth="yes"/>
+      <point x="107" y="206"/>
+      <point x="116" y="184"/>
+      <point x="116" y="107" type="curve"/>
+      <point x="138" y="123" type="line"/>
+      <point x="141" y="206"/>
+      <point x="117" y="227"/>
+      <point x="81" y="227" type="curve" smooth="yes"/>
+      <point x="46" y="227"/>
+      <point x="25" y="198"/>
+      <point x="25" y="164" type="curve" smooth="yes"/>
+      <point x="25" y="102"/>
+      <point x="53" y="60"/>
+      <point x="119" y="27" type="curve" smooth="yes"/>
+      <point x="167" y="3"/>
+      <point x="236" y="-7"/>
+      <point x="314" y="-8" type="curve" smooth="yes"/>
+      <point x="587" y="-10"/>
+      <point x="666" y="59"/>
+      <point x="666" y="180" type="curve" smooth="yes"/>
+      <point x="666" y="298"/>
+      <point x="581" y="335"/>
+    </contour>
+    <contour>
+      <point x="116" y="-78" type="line"/>
+      <point x="139" y="-78" type="line"/>
+      <point x="139" y="92" type="line" smooth="yes"/>
+      <point x="139" y="171"/>
+      <point x="169" y="206"/>
+      <point x="230" y="206" type="curve" smooth="yes"/>
+      <point x="275" y="206"/>
+      <point x="303" y="179"/>
+      <point x="303" y="127" type="curve" smooth="yes"/>
+      <point x="303" y="-78" type="line"/>
+      <point x="326" y="-78" type="line"/>
+      <point x="326" y="100" type="line" smooth="yes"/>
+      <point x="326" y="173"/>
+      <point x="357" y="206"/>
+      <point x="417" y="206" type="curve" smooth="yes"/>
+      <point x="464" y="206"/>
+      <point x="491" y="179"/>
+      <point x="491" y="121" type="curve" smooth="yes"/>
+      <point x="491" y="-78" type="line"/>
+      <point x="513" y="-78" type="line"/>
+      <point x="513" y="120" type="line" smooth="yes"/>
+      <point x="513" y="195"/>
+      <point x="479" y="228"/>
+      <point x="419" y="228" type="curve" smooth="yes"/>
+      <point x="372" y="228"/>
+      <point x="338" y="207"/>
+      <point x="320" y="173" type="curve"/>
+      <point x="319" y="173" type="line"/>
+      <point x="306" y="210"/>
+      <point x="275" y="228"/>
+      <point x="232" y="228" type="curve" smooth="yes"/>
+      <point x="184" y="228"/>
+      <point x="151" y="208"/>
+      <point x="137" y="178" type="curve"/>
+      <point x="127" y="178" type="line"/>
+      <point x="121" y="180" type="line"/>
+      <point x="116" y="182" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:08</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

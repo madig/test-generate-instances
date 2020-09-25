@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7CA" format="2">
+  <advance width="458"/>
+  <unicode hex="A7CA"/>
+  <outline>
+    <contour>
+      <point x="24" y="263" type="line"/>
+      <point x="443" y="263" type="line"/>
+      <point x="443" y="288" type="line"/>
+      <point x="24" y="288" type="line"/>
+    </contour>
+    <component base="s"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+    </dict>
+  </lib>
+</glyph>

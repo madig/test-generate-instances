@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longsdiagonalstroke" format="2">
+  <advance width="294"/>
+  <unicode hex="1E9C"/>
+  <anchor x="147" y="0" name="bottom"/>
+  <anchor x="147" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="412" type="line"/>
+      <point x="37" y="392" type="line"/>
+      <point x="254" y="521" type="line"/>
+      <point x="242" y="541" type="line"/>
+    </contour>
+    <component base="longs"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>longs</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

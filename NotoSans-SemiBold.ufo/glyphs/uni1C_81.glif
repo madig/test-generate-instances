@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1C81" format="2">
+  <advance width="664"/>
+  <unicode hex="1C81"/>
+  <anchor x="332" y="-240" name="bottom"/>
+  <anchor x="332" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="569" y="546" type="line"/>
+      <point x="183" y="546" type="line"/>
+      <point x="169" y="398"/>
+      <point x="132" y="249"/>
+      <point x="60" y="149" type="curve"/>
+      <point x="14" y="149" type="line"/>
+      <point x="14" y="-240" type="line"/>
+      <point x="148" y="-240" type="line"/>
+      <point x="148" y="40" type="line"/>
+      <point x="515" y="40" type="line"/>
+      <point x="515" y="-240" type="line"/>
+      <point x="649" y="-240" type="line"/>
+      <point x="649" y="149" type="line"/>
+      <point x="569" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="434" type="curve"/>
+      <point x="420" y="434" type="line"/>
+      <point x="420" y="149" type="line"/>
+      <point x="216" y="149" type="line"/>
+      <point x="266" y="235"/>
+      <point x="292" y="329"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

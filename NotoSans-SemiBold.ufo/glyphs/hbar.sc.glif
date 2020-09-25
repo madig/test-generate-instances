@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.sc" format="2">
+  <advance width="630"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="315" y="582" name="top"/>
+  <outline>
+    <contour>
+      <point x="620" y="424" type="line"/>
+      <point x="620" y="525" type="line"/>
+      <point x="564" y="525" type="line"/>
+      <point x="564" y="583" type="line"/>
+      <point x="415" y="583" type="line"/>
+      <point x="415" y="525" type="line"/>
+      <point x="214" y="525" type="line"/>
+      <point x="214" y="583" type="line"/>
+      <point x="66" y="583" type="line"/>
+      <point x="66" y="525" type="line"/>
+      <point x="11" y="525" type="line"/>
+      <point x="11" y="424" type="line"/>
+      <point x="66" y="424" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="232" type="line"/>
+      <point x="415" y="232" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="564" y="0" type="line"/>
+      <point x="564" y="424" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="344" type="line"/>
+      <point x="214" y="344" type="line"/>
+      <point x="214" y="424" type="line"/>
+      <point x="416" y="424" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA778" format="2">
+  <advance width="367"/>
+  <unicode hex="A778"/>
+  <outline>
+    <contour>
+      <point x="183" y="724" type="curve" smooth="yes"/>
+      <point x="105" y="724"/>
+      <point x="58" y="667"/>
+      <point x="58" y="572" type="curve" smooth="yes"/>
+      <point x="58" y="491"/>
+      <point x="91" y="434"/>
+      <point x="141" y="377" type="curve"/>
+      <point x="38" y="214" type="line"/>
+      <point x="97" y="173" type="line"/>
+      <point x="194" y="327" type="line"/>
+      <point x="233" y="280"/>
+      <point x="257" y="242"/>
+      <point x="257" y="177" type="curve" smooth="yes"/>
+      <point x="257" y="117"/>
+      <point x="225" y="76"/>
+      <point x="163" y="76" type="curve" smooth="yes"/>
+      <point x="39" y="76" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="291" y="0"/>
+      <point x="341" y="75"/>
+      <point x="341" y="177" type="curve" smooth="yes"/>
+      <point x="341" y="262"/>
+      <point x="304" y="325"/>
+      <point x="238" y="388" type="curve"/>
+      <point x="282" y="456"/>
+      <point x="307" y="503"/>
+      <point x="307" y="577" type="curve" smooth="yes"/>
+      <point x="307" y="668"/>
+      <point x="260" y="724"/>
+    </contour>
+    <contour>
+      <point x="184" y="658" type="curve" smooth="yes"/>
+      <point x="213" y="658"/>
+      <point x="229" y="629"/>
+      <point x="229" y="575" type="curve" smooth="yes"/>
+      <point x="229" y="529"/>
+      <point x="213" y="474"/>
+      <point x="184" y="437" type="curve"/>
+      <point x="158" y="475"/>
+      <point x="136" y="517"/>
+      <point x="136" y="575" type="curve" smooth="yes"/>
+      <point x="136" y="630"/>
+      <point x="152" y="658"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

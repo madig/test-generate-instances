@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="537"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="343" y="760" type="line"/>
+      <point x="195" y="760" type="line"/>
+      <point x="214" y="588" type="line"/>
+      <point x="44" y="637" type="line"/>
+      <point x="22" y="495" type="line"/>
+      <point x="175" y="483" type="line"/>
+      <point x="74" y="347" type="line"/>
+      <point x="207" y="281" type="line"/>
+      <point x="267" y="418" type="line"/>
+      <point x="337" y="280" type="line"/>
+      <point x="464" y="347" type="line"/>
+      <point x="363" y="483" type="line"/>
+      <point x="516" y="493" type="line"/>
+      <point x="498" y="637" type="line"/>
+      <point x="324" y="588" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:50</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

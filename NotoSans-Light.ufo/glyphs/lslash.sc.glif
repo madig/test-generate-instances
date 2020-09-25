@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance width="401"/>
+  <anchor x="201" y="0" name="bottom"/>
+  <anchor x="201" y="559" name="top"/>
+  <outline>
+    <contour>
+      <point x="386" y="25" type="line"/>
+      <point x="110" y="25" type="line"/>
+      <point x="110" y="263" type="line"/>
+      <point x="258" y="366" type="line"/>
+      <point x="245" y="386" type="line"/>
+      <point x="110" y="292" type="line"/>
+      <point x="110" y="559" type="line"/>
+      <point x="84" y="559" type="line"/>
+      <point x="84" y="274" type="line"/>
+      <point x="4" y="218" type="line"/>
+      <point x="17" y="198" type="line"/>
+      <point x="84" y="245" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="386" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:05</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

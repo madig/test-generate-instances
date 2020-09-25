@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildedieresis" format="2">
+  <outline>
+    <contour>
+      <point x="-181" y="605" type="curve"/>
+      <point x="-108" y="605" type="line"/>
+      <point x="-100" y="633"/>
+      <point x="-89" y="642"/>
+      <point x="-66" y="642" type="curve"/>
+      <point x="-34" y="642"/>
+      <point x="1" y="604"/>
+      <point x="66" y="604" type="curve"/>
+      <point x="144" y="604"/>
+      <point x="172" y="658"/>
+      <point x="179" y="720" type="curve"/>
+      <point x="105" y="720" type="line"/>
+      <point x="101" y="695"/>
+      <point x="88" y="683"/>
+      <point x="67" y="683" type="curve"/>
+      <point x="29" y="683"/>
+      <point x="2" y="721"/>
+      <point x="-70" y="721" type="curve"/>
+      <point x="-144" y="721"/>
+      <point x="-176" y="667"/>
+    </contour>
+    <contour>
+      <point x="-102" y="734" type="curve"/>
+      <point x="-57" y="734"/>
+      <point x="-27" y="759"/>
+      <point x="-27" y="801" type="curve"/>
+      <point x="-27" y="846"/>
+      <point x="-57" y="870"/>
+      <point x="-102" y="870" type="curve"/>
+      <point x="-148" y="870"/>
+      <point x="-176" y="846"/>
+      <point x="-176" y="801" type="curve"/>
+      <point x="-176" y="759"/>
+      <point x="-148" y="734"/>
+    </contour>
+    <contour>
+      <point x="101" y="734" type="curve"/>
+      <point x="146" y="734"/>
+      <point x="176" y="759"/>
+      <point x="176" y="801" type="curve"/>
+      <point x="176" y="846"/>
+      <point x="146" y="870"/>
+      <point x="101" y="870" type="curve"/>
+      <point x="55" y="870"/>
+      <point x="27" y="846"/>
+      <point x="27" y="801" type="curve"/>
+      <point x="27" y="759"/>
+      <point x="55" y="734"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

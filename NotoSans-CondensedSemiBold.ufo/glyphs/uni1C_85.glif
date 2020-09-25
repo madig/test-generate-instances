@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1C85" format="2">
+  <advance width="738"/>
+  <unicode hex="1C85"/>
+  <anchor x="369" y="0" name="bottom"/>
+  <anchor x="369" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="437" type="line"/>
+      <point x="304" y="437" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="434" y="0" type="line"/>
+      <point x="434" y="437" type="line"/>
+      <point x="552" y="437" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="682" y="0" type="line"/>
+      <point x="682" y="547" type="line"/>
+      <point x="56" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

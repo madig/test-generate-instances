@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="741"/>
+  <unicode hex="00C6"/>
+  <anchor x="371" y="0" name="bottom"/>
+  <anchor x="369" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="701" y="0" type="line"/>
+      <point x="701" y="146" type="line"/>
+      <point x="526" y="146" type="line"/>
+      <point x="526" y="297" type="line"/>
+      <point x="687" y="297" type="line"/>
+      <point x="687" y="441" type="line"/>
+      <point x="526" y="441" type="line"/>
+      <point x="526" y="570" type="line"/>
+      <point x="701" y="570" type="line"/>
+      <point x="701" y="714" type="line"/>
+      <point x="216" y="714" type="line"/>
+      <point x="-5" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="220" y="139" type="line"/>
+      <point x="359" y="139" type="line"/>
+      <point x="359" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="285" type="line"/>
+      <point x="334" y="570" type="line"/>
+      <point x="359" y="570" type="line"/>
+      <point x="359" y="285" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:51</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

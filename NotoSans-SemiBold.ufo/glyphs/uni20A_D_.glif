@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20AD" format="2">
+  <advance width="572"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="72" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="221" y="261" type="line"/>
+      <point x="263" y="303" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="408" y="303" type="line"/>
+      <point x="527" y="303" type="line"/>
+      <point x="527" y="400" type="line"/>
+      <point x="373" y="400" type="line"/>
+      <point x="571" y="714" type="line"/>
+      <point x="415" y="714" type="line"/>
+      <point x="230" y="400" type="line"/>
+      <point x="221" y="400" type="line"/>
+      <point x="221" y="714" type="line"/>
+      <point x="72" y="714" type="line"/>
+      <point x="72" y="400" type="line"/>
+      <point x="8" y="400" type="line"/>
+      <point x="8" y="303" type="line"/>
+      <point x="72" y="303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

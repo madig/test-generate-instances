@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sc" format="2">
+  <advance width="441"/>
+  <anchor x="221" y="0" name="bottom"/>
+  <anchor x="233" y="582" name="top"/>
+  <anchor x="421" y="582" name="topright"/>
+  <outline>
+    <contour>
+      <point x="47" y="582" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="199" type="line"/>
+      <point x="213" y="231" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="310" y="323" type="line"/>
+      <point x="451" y="582" type="line"/>
+      <point x="307" y="582" type="line"/>
+      <point x="217" y="403" type="line" smooth="yes"/>
+      <point x="206" y="380"/>
+      <point x="186" y="340"/>
+      <point x="178" y="315" type="curve"/>
+      <point x="178" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:05</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02C4" format="2">
+  <advance width="283"/>
+  <unicode hex="02C4"/>
+  <outline>
+    <contour>
+      <point x="4" y="540" type="line"/>
+      <point x="76" y="540" type="line"/>
+      <point x="141" y="691" type="line"/>
+      <point x="207" y="540" type="line"/>
+      <point x="279" y="540" type="line"/>
+      <point x="165" y="787" type="line"/>
+      <point x="117" y="787" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookretroflexbelowcomb" format="2">
+  <unicode hex="0322"/>
+  <anchor x="107" y="0" name="_bottom"/>
+  <anchor x="107" y="-241" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="126" y="-241" type="curve"/>
+      <point x="156" y="-241"/>
+      <point x="188" y="-237"/>
+      <point x="213" y="-228" type="curve"/>
+      <point x="213" y="-111" type="line"/>
+      <point x="199" y="-115"/>
+      <point x="187" y="-120"/>
+      <point x="177" y="-120" type="curve"/>
+      <point x="148" y="-120"/>
+      <point x="134" y="-104"/>
+      <point x="134" y="-58" type="curve"/>
+      <point x="134" y="56" type="line"/>
+      <point x="0" y="56" type="line"/>
+      <point x="0" y="-75" type="line" smooth="yes"/>
+      <point x="0" y="-196"/>
+      <point x="57" y="-241"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:09</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

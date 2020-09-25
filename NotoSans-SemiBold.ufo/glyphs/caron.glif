@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="504"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="165" y="606" type="curve"/>
+      <point x="339" y="606" type="line"/>
+      <point x="367" y="651"/>
+      <point x="428" y="717"/>
+      <point x="464" y="753" type="curve"/>
+      <point x="464" y="766" type="line"/>
+      <point x="365" y="766" type="line"/>
+      <point x="330" y="745"/>
+      <point x="285" y="716"/>
+      <point x="251" y="680" type="curve"/>
+      <point x="216" y="716"/>
+      <point x="174" y="744"/>
+      <point x="139" y="766" type="curve"/>
+      <point x="40" y="766" type="line"/>
+      <point x="40" y="753" type="line"/>
+      <point x="77" y="716"/>
+      <point x="137" y="651"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:52</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

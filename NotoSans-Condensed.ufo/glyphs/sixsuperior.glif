@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsuperior" format="2">
+  <advance width="314"/>
+  <unicode hex="2076"/>
+  <outline>
+    <contour>
+      <point x="198" y="853" type="curve" smooth="yes"/>
+      <point x="69" y="853"/>
+      <point x="25" y="752"/>
+      <point x="25" y="590" type="curve" smooth="yes"/>
+      <point x="25" y="488"/>
+      <point x="64" y="406"/>
+      <point x="155" y="406" type="curve" smooth="yes"/>
+      <point x="237" y="406"/>
+      <point x="281" y="468"/>
+      <point x="281" y="553" type="curve" smooth="yes"/>
+      <point x="281" y="630"/>
+      <point x="248" y="688"/>
+      <point x="177" y="688" type="curve" smooth="yes"/>
+      <point x="139" y="688"/>
+      <point x="110" y="668"/>
+      <point x="93" y="636" type="curve"/>
+      <point x="89" y="636" type="line"/>
+      <point x="93" y="741"/>
+      <point x="129" y="794"/>
+      <point x="193" y="794" type="curve" smooth="yes"/>
+      <point x="220" y="794"/>
+      <point x="240" y="792"/>
+      <point x="253" y="786" type="curve"/>
+      <point x="253" y="845" type="line"/>
+      <point x="239" y="850"/>
+      <point x="220" y="853"/>
+    </contour>
+    <contour>
+      <point x="157" y="637" type="curve" smooth="yes"/>
+      <point x="194" y="637"/>
+      <point x="217" y="606"/>
+      <point x="217" y="551" type="curve" smooth="yes"/>
+      <point x="217" y="495"/>
+      <point x="193" y="463"/>
+      <point x="155" y="463" type="curve" smooth="yes"/>
+      <point x="114" y="463"/>
+      <point x="90" y="507"/>
+      <point x="90" y="562" type="curve" smooth="yes"/>
+      <point x="90" y="599"/>
+      <point x="116" y="637"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA64E" format="2">
+  <advance width="514"/>
+  <unicode hex="A64E"/>
+  <outline>
+    <contour>
+      <point x="132" y="530" type="curve"/>
+      <point x="132" y="0" type="line"/>
+      <point x="274" y="0" type="line" smooth="yes"/>
+      <point x="405" y="0"/>
+      <point x="478" y="80"/>
+      <point x="478" y="211" type="curve" smooth="yes"/>
+      <point x="478" y="351"/>
+      <point x="408" y="416"/>
+      <point x="271" y="416" type="curve" smooth="yes"/>
+      <point x="216" y="416" type="line"/>
+      <point x="216" y="550" type="line"/>
+      <point x="216" y="676"/>
+      <point x="162" y="723"/>
+      <point x="77" y="723" type="curve" smooth="yes"/>
+      <point x="53" y="723"/>
+      <point x="32" y="719"/>
+      <point x="13" y="711" type="curve"/>
+      <point x="13" y="637" type="line"/>
+      <point x="29" y="643"/>
+      <point x="48" y="647"/>
+      <point x="69" y="647" type="curve" smooth="yes"/>
+      <point x="113" y="647"/>
+      <point x="132" y="614"/>
+    </contour>
+    <contour>
+      <point x="273" y="74" type="curve" smooth="yes"/>
+      <point x="216" y="74" type="line"/>
+      <point x="216" y="342" type="line"/>
+      <point x="272" y="342" type="line" smooth="yes"/>
+      <point x="354" y="342"/>
+      <point x="393" y="300"/>
+      <point x="393" y="210" type="curve" smooth="yes"/>
+      <point x="393" y="121"/>
+      <point x="352" y="74"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:05</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

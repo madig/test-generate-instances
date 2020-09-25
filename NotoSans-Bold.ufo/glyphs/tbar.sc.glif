@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.sc" format="2">
+  <advance width="509"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="255" y="591" name="top"/>
+  <outline>
+    <contour>
+      <point x="484" y="591" type="line"/>
+      <point x="25" y="591" type="line"/>
+      <point x="25" y="438" type="line"/>
+      <point x="160" y="438" type="line"/>
+      <point x="160" y="295" type="line"/>
+      <point x="56" y="295" type="line"/>
+      <point x="56" y="160" type="line"/>
+      <point x="160" y="160" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="349" y="160" type="line"/>
+      <point x="453" y="160" type="line"/>
+      <point x="453" y="295" type="line"/>
+      <point x="349" y="295" type="line"/>
+      <point x="349" y="438" type="line"/>
+      <point x="484" y="438" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:05</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="545"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="431" y="407" type="line"/>
+      <point x="532" y="407" type="line"/>
+      <point x="532" y="524" type="line"/>
+      <point x="446" y="524" type="line"/>
+      <point x="474" y="714" type="line"/>
+      <point x="357" y="714" type="line"/>
+      <point x="330" y="524" type="line"/>
+      <point x="268" y="524" type="line"/>
+      <point x="296" y="714" type="line"/>
+      <point x="180" y="714" type="line"/>
+      <point x="152" y="524" type="line"/>
+      <point x="45" y="524" type="line"/>
+      <point x="45" y="407" type="line"/>
+      <point x="136" y="407" type="line"/>
+      <point x="121" y="305" type="line"/>
+      <point x="21" y="305" type="line"/>
+      <point x="21" y="191" type="line"/>
+      <point x="105" y="191" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="221" y="191" type="line"/>
+      <point x="284" y="191" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="401" y="191" type="line"/>
+      <point x="508" y="191" type="line"/>
+      <point x="508" y="305" type="line"/>
+      <point x="416" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="305" type="line"/>
+      <point x="252" y="407" type="line"/>
+      <point x="314" y="407" type="line"/>
+      <point x="299" y="305" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:50</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

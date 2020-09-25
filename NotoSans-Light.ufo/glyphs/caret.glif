@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caret" format="2">
+  <advance width="399"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="20" y="-240" type="line"/>
+      <point x="49" y="-240" type="line"/>
+      <point x="200" y="47" type="line"/>
+      <point x="341" y="-240" type="line"/>
+      <point x="371" y="-240" type="line"/>
+      <point x="213" y="80" type="line"/>
+      <point x="190" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

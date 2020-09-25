@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2E4D" format="2">
+  <advance width="412"/>
+  <unicode hex="2E4D"/>
+  <outline>
+    <contour>
+      <point x="159" y="363" type="line"/>
+      <point x="397" y="601" type="line"/>
+      <point x="348" y="650" type="line"/>
+      <point x="109" y="411" type="line"/>
+    </contour>
+    <component base="afii10020"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:08</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

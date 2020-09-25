@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030003040308" format="2">
+  <anchor x="185" y="528" name="_top"/>
+  <anchor x="185" y="943" name="top"/>
+  <outline>
+    <contour>
+      <point x="193" y="834" type="curve"/>
+      <point x="211" y="834" type="line"/>
+      <point x="211" y="844" type="line"/>
+      <point x="183" y="867"/>
+      <point x="143" y="914"/>
+      <point x="128" y="943" type="curve"/>
+      <point x="88" y="943" type="line"/>
+      <point x="88" y="935" type="line"/>
+      <point x="109" y="907"/>
+      <point x="150" y="864"/>
+    </contour>
+    <contour>
+      <point x="57" y="751" type="line"/>
+      <point x="313" y="751" type="line"/>
+      <point x="313" y="775" type="line"/>
+      <point x="57" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="622" type="curve" smooth="yes"/>
+      <point x="113" y="622"/>
+      <point x="116" y="636"/>
+      <point x="116" y="653" type="curve" smooth="yes"/>
+      <point x="116" y="669"/>
+      <point x="113" y="684"/>
+      <point x="91" y="684" type="curve" smooth="yes"/>
+      <point x="73" y="684"/>
+      <point x="68" y="669"/>
+      <point x="68" y="653" type="curve" smooth="yes"/>
+      <point x="68" y="636"/>
+      <point x="73" y="622"/>
+    </contour>
+    <contour>
+      <point x="276" y="622" type="curve" smooth="yes"/>
+      <point x="298" y="622"/>
+      <point x="301" y="636"/>
+      <point x="301" y="653" type="curve" smooth="yes"/>
+      <point x="301" y="669"/>
+      <point x="298" y="684"/>
+      <point x="276" y="684" type="curve" smooth="yes"/>
+      <point x="258" y="684"/>
+      <point x="253" y="669"/>
+      <point x="253" y="653" type="curve" smooth="yes"/>
+      <point x="253" y="636"/>
+      <point x="258" y="622"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>368</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20A9" format="2">
+  <advance width="549"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="238" y="340" type="line"/>
+      <point x="308" y="340" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="493" y="340" type="line"/>
+      <point x="546" y="340" type="line"/>
+      <point x="546" y="392" type="line"/>
+      <point x="500" y="392" type="line"/>
+      <point x="545" y="714" type="line"/>
+      <point x="466" y="714" type="line"/>
+      <point x="430" y="392" type="line"/>
+      <point x="356" y="392" type="line"/>
+      <point x="311" y="714" type="line"/>
+      <point x="235" y="714" type="line"/>
+      <point x="190" y="392" type="line"/>
+      <point x="118" y="392" type="line"/>
+      <point x="85" y="714" type="line"/>
+      <point x="5" y="714" type="line"/>
+      <point x="49" y="392" type="line"/>
+      <point x="4" y="392" type="line"/>
+      <point x="4" y="340" type="line"/>
+      <point x="56" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="100" type="line"/>
+      <point x="123" y="340" type="line"/>
+      <point x="182" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="100" type="line"/>
+      <point x="364" y="340" type="line"/>
+      <point x="424" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="392" type="line"/>
+      <point x="272" y="597" type="line"/>
+      <point x="300" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

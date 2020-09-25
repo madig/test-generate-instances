@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="328"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="319" y="547" type="line"/>
+      <point x="319" y="571" type="line"/>
+      <point x="245" y="571" type="line"/>
+      <point x="245" y="847" type="line"/>
+      <point x="217" y="847" type="line"/>
+      <point x="16" y="565" type="line"/>
+      <point x="16" y="547" type="line"/>
+      <point x="220" y="547" type="line"/>
+      <point x="220" y="416" type="line"/>
+      <point x="245" y="416" type="line"/>
+      <point x="245" y="547" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="735" type="curve" smooth="yes"/>
+      <point x="220" y="571" type="line"/>
+      <point x="48" y="571" type="line"/>
+      <point x="187" y="766" type="line" smooth="yes"/>
+      <point x="201" y="786"/>
+      <point x="208" y="796"/>
+      <point x="221" y="818" type="curve"/>
+      <point x="220" y="792"/>
+      <point x="220" y="767"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:54</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+    </dict>
+  </lib>
+</glyph>

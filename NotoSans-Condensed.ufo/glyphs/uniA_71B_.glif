@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA71B" format="2">
+  <advance width="476"/>
+  <unicode hex="A71B"/>
+  <outline>
+    <contour>
+      <point x="238" y="894" type="line"/>
+      <point x="105" y="733" type="line"/>
+      <point x="212" y="733" type="line"/>
+      <point x="212" y="603" type="line"/>
+      <point x="264" y="603" type="line"/>
+      <point x="264" y="733" type="line"/>
+      <point x="371" y="733" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0482" format="2">
+  <advance width="586"/>
+  <unicode hex="0482"/>
+  <outline>
+    <contour>
+      <point x="404" y="630" type="line"/>
+      <point x="337" y="515" type="line"/>
+      <point x="220" y="583" type="line"/>
+      <point x="157" y="475" type="line"/>
+      <point x="275" y="406" type="line"/>
+      <point x="206" y="285" type="line"/>
+      <point x="87" y="353" type="line"/>
+      <point x="25" y="246" type="line"/>
+      <point x="142" y="177" type="line"/>
+      <point x="75" y="62" type="line"/>
+      <point x="188" y="-3" type="line"/>
+      <point x="256" y="112" type="line"/>
+      <point x="365" y="49" type="line"/>
+      <point x="428" y="156" type="line"/>
+      <point x="318" y="221" type="line"/>
+      <point x="389" y="342" type="line"/>
+      <point x="497" y="279" type="line"/>
+      <point x="561" y="386" type="line"/>
+      <point x="450" y="450" type="line"/>
+      <point x="516" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:55</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="643"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="579" y="-127" type="line"/>
+      <point x="579" y="760" type="line"/>
+      <point x="270" y="760" type="line" smooth="yes"/>
+      <point x="139" y="760"/>
+      <point x="50" y="700"/>
+      <point x="50" y="509" type="curve" smooth="yes"/>
+      <point x="50" y="326"/>
+      <point x="131" y="264"/>
+      <point x="255" y="264" type="curve" smooth="yes"/>
+      <point x="283" y="264"/>
+      <point x="296" y="267"/>
+      <point x="316" y="273" type="curve"/>
+      <point x="316" y="-127" type="line"/>
+      <point x="409" y="-127" type="line"/>
+      <point x="409" y="648" type="line"/>
+      <point x="486" y="648" type="line"/>
+      <point x="486" y="-127" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:51</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

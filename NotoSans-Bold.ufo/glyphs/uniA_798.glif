@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA798" format="2">
+  <advance width="570"/>
+  <unicode hex="A798"/>
+  <outline>
+    <contour>
+      <point x="73" y="-267" type="curve"/>
+      <point x="201" y="-267"/>
+      <point x="279" y="-210"/>
+      <point x="279" y="-68" type="curve"/>
+      <point x="279" y="555" type="line"/>
+      <point x="502" y="555" type="line"/>
+      <point x="502" y="714" type="line"/>
+      <point x="85" y="714" type="line"/>
+      <point x="85" y="-61" type="line"/>
+      <point x="85" y="-98"/>
+      <point x="63" y="-115"/>
+      <point x="37" y="-115" type="curve"/>
+      <point x="14" y="-115"/>
+      <point x="-9" y="-108"/>
+      <point x="-18" y="-105" type="curve"/>
+      <point x="-18" y="-250" type="line"/>
+      <point x="-4" y="-256"/>
+      <point x="35" y="-267"/>
+    </contour>
+    <contour>
+      <point x="-17" y="266" type="line"/>
+      <point x="417" y="266" type="line"/>
+      <point x="417" y="423" type="line"/>
+      <point x="-17" y="423" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:06</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

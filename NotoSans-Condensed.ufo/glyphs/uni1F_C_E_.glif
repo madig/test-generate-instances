@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FCE" format="2">
+  <advance width="532"/>
+  <unicode hex="1FCE"/>
+  <outline>
+    <contour>
+      <point x="276" y="631" type="curve"/>
+      <point x="276" y="619" type="line"/>
+      <point x="313" y="619" type="line"/>
+      <point x="340" y="665"/>
+      <point x="362" y="710"/>
+      <point x="376" y="753" type="curve"/>
+      <point x="376" y="765" type="line"/>
+      <point x="305" y="765" type="line"/>
+      <point x="298" y="718"/>
+      <point x="287" y="670"/>
+    </contour>
+    <contour>
+      <point x="179" y="643" type="curve"/>
+      <point x="179" y="614" type="line"/>
+      <point x="230" y="616"/>
+      <point x="262" y="655"/>
+      <point x="262" y="708" type="curve" smooth="yes"/>
+      <point x="262" y="752"/>
+      <point x="244" y="771"/>
+      <point x="217" y="771" type="curve" smooth="yes"/>
+      <point x="193" y="771"/>
+      <point x="179" y="754"/>
+      <point x="179" y="730" type="curve" smooth="yes"/>
+      <point x="179" y="699"/>
+      <point x="202" y="693"/>
+      <point x="213" y="686" type="curve"/>
+      <point x="213" y="667"/>
+      <point x="201" y="645"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:01</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

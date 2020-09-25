@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c.sc" format="2">
+  <advance width="321"/>
+  <anchor x="181" y="0" name="bottom"/>
+  <anchor x="198" y="559" name="top"/>
+  <anchor x="301" y="559" name="topright"/>
+  <outline>
+    <contour>
+      <point x="214" y="544" type="curve" smooth="yes"/>
+      <point x="239" y="544"/>
+      <point x="265" y="538"/>
+      <point x="293" y="520" type="curve"/>
+      <point x="304" y="543" type="line"/>
+      <point x="275" y="562"/>
+      <point x="242" y="569"/>
+      <point x="212" y="569" type="curve" smooth="yes"/>
+      <point x="103" y="569"/>
+      <point x="32" y="476"/>
+      <point x="32" y="277" type="curve" smooth="yes"/>
+      <point x="32" y="108"/>
+      <point x="84" y="-10"/>
+      <point x="204" y="-10" type="curve" smooth="yes"/>
+      <point x="231" y="-10"/>
+      <point x="266" y="-4"/>
+      <point x="289" y="8" type="curve"/>
+      <point x="289" y="35" type="line"/>
+      <point x="263" y="22"/>
+      <point x="231" y="15"/>
+      <point x="205" y="15" type="curve" smooth="yes"/>
+      <point x="106" y="15"/>
+      <point x="59" y="118"/>
+      <point x="59" y="276" type="curve" smooth="yes"/>
+      <point x="59" y="438"/>
+      <point x="108" y="544"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

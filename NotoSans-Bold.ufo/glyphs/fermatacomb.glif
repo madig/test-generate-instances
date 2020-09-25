@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fermatacomb" format="2">
+  <unicode hex="0352"/>
+  <anchor x="0" y="553" name="_top"/>
+  <anchor x="2" y="859" name="top"/>
+  <outline>
+    <contour>
+      <point x="-191" y="674" type="curve"/>
+      <point x="-103" y="674" type="line"/>
+      <point x="-98" y="726"/>
+      <point x="-56" y="770"/>
+      <point x="1" y="770" type="curve"/>
+      <point x="55" y="770"/>
+      <point x="101" y="731"/>
+      <point x="105" y="674" type="curve"/>
+      <point x="191" y="674" type="line"/>
+      <point x="186" y="786"/>
+      <point x="127" y="859"/>
+      <point x="1" y="859" type="curve"/>
+      <point x="-119" y="859"/>
+      <point x="-184" y="782"/>
+    </contour>
+    <contour>
+      <point x="4" y="606" type="curve"/>
+      <point x="48" y="606"/>
+      <point x="74" y="628"/>
+      <point x="74" y="670" type="curve"/>
+      <point x="74" y="710"/>
+      <point x="48" y="733"/>
+      <point x="4" y="733" type="curve"/>
+      <point x="-40" y="733"/>
+      <point x="-68" y="710"/>
+      <point x="-68" y="670" type="curve"/>
+      <point x="-68" y="628"/>
+      <point x="-40" y="606"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

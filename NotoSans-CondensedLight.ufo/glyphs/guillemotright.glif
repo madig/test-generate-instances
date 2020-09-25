@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright" format="2">
+  <advance width="397"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="358" y="271" type="line"/>
+      <point x="358" y="284" type="line"/>
+      <point x="217" y="459" type="line"/>
+      <point x="199" y="449" type="line"/>
+      <point x="323" y="278" type="line"/>
+      <point x="199" y="108" type="line"/>
+      <point x="217" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="271" type="line"/>
+      <point x="199" y="284" type="line"/>
+      <point x="58" y="459" type="line"/>
+      <point x="40" y="449" type="line"/>
+      <point x="164" y="278" type="line"/>
+      <point x="40" y="108" type="line"/>
+      <point x="58" y="98" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:51</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Quote</string>
+    </dict>
+  </lib>
+</glyph>

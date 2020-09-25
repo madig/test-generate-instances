@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="almostequaltoabovecomb" format="2">
+  <unicode hex="034C"/>
+  <anchor x="-1" y="553" name="_top"/>
+  <anchor x="2" y="861" name="top"/>
+  <outline>
+    <contour>
+      <point x="53" y="744" type="curve"/>
+      <point x="113" y="744"/>
+      <point x="137" y="797"/>
+      <point x="142" y="860" type="curve"/>
+      <point x="85" y="860" type="line"/>
+      <point x="82" y="831"/>
+      <point x="72" y="818"/>
+      <point x="54" y="818" type="curve"/>
+      <point x="24" y="818"/>
+      <point x="-1" y="861"/>
+      <point x="-55" y="861" type="curve"/>
+      <point x="-111" y="861"/>
+      <point x="-139" y="808"/>
+      <point x="-143" y="745" type="curve"/>
+      <point x="-86" y="745" type="line"/>
+      <point x="-80" y="777"/>
+      <point x="-72" y="787"/>
+      <point x="-51" y="787" type="curve"/>
+      <point x="-27" y="787"/>
+      <point x="5" y="744"/>
+    </contour>
+    <contour>
+      <point x="53" y="604" type="curve"/>
+      <point x="113" y="604"/>
+      <point x="137" y="657"/>
+      <point x="142" y="720" type="curve"/>
+      <point x="85" y="720" type="line"/>
+      <point x="82" y="691"/>
+      <point x="72" y="678"/>
+      <point x="54" y="678" type="curve"/>
+      <point x="24" y="678"/>
+      <point x="-1" y="721"/>
+      <point x="-55" y="721" type="curve"/>
+      <point x="-111" y="721"/>
+      <point x="-139" y="668"/>
+      <point x="-143" y="605" type="curve"/>
+      <point x="-86" y="605" type="line"/>
+      <point x="-80" y="637"/>
+      <point x="-72" y="647"/>
+      <point x="-51" y="647" type="curve"/>
+      <point x="-27" y="647"/>
+      <point x="5" y="604"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

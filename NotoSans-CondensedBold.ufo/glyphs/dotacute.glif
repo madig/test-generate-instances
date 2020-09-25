@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotacute" format="2">
+  <outline>
+    <contour>
+      <point x="-26" y="620" type="curve"/>
+      <point x="-26" y="606" type="line"/>
+      <point x="73" y="606" type="line"/>
+      <point x="108" y="639"/>
+      <point x="166" y="709"/>
+      <point x="196" y="755" type="curve"/>
+      <point x="196" y="765" type="line"/>
+      <point x="27" y="765" type="line"/>
+      <point x="14" y="718"/>
+      <point x="-9" y="658"/>
+    </contour>
+    <contour>
+      <point x="-109" y="616" type="curve"/>
+      <point x="-71" y="616"/>
+      <point x="-45" y="640"/>
+      <point x="-45" y="681" type="curve"/>
+      <point x="-45" y="725"/>
+      <point x="-71" y="748"/>
+      <point x="-109" y="748" type="curve"/>
+      <point x="-149" y="748"/>
+      <point x="-172" y="725"/>
+      <point x="-172" y="681" type="curve"/>
+      <point x="-172" y="640"/>
+      <point x="-149" y="616"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

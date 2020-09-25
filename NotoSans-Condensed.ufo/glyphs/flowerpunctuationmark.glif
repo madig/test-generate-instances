@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="flowerpunctuationmark" format="2">
+  <advance width="568"/>
+  <unicode hex="2055"/>
+  <outline>
+    <contour>
+      <point x="539" y="218" type="line"/>
+      <point x="539" y="283" type="line"/>
+      <point x="362" y="283" type="line"/>
+      <point x="487" y="409" type="line"/>
+      <point x="442" y="454" type="line"/>
+      <point x="316" y="328" type="line"/>
+      <point x="316" y="506" type="line"/>
+      <point x="252" y="506" type="line"/>
+      <point x="252" y="328" type="line"/>
+      <point x="127" y="454" type="line"/>
+      <point x="81" y="409" type="line"/>
+      <point x="207" y="283" type="line"/>
+      <point x="29" y="283" type="line"/>
+      <point x="29" y="218" type="line"/>
+      <point x="207" y="218" type="line"/>
+      <point x="82" y="93" type="line"/>
+      <point x="127" y="47" type="line"/>
+      <point x="252" y="173" type="line"/>
+      <point x="252" y="-4" type="line"/>
+      <point x="316" y="-5" type="line"/>
+      <point x="316" y="174" type="line"/>
+      <point x="441" y="48" type="line"/>
+      <point x="487" y="93" type="line"/>
+      <point x="362" y="218" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

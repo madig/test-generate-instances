@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaron" format="2">
+  <outline>
+    <contour>
+      <point x="-71" y="748" type="curve"/>
+      <point x="71" y="748" type="line"/>
+      <point x="101" y="793"/>
+      <point x="130" y="835"/>
+      <point x="158" y="870" type="curve"/>
+      <point x="158" y="883" type="line"/>
+      <point x="95" y="883" type="line"/>
+      <point x="63" y="864"/>
+      <point x="28" y="841"/>
+      <point x="0" y="812" type="curve"/>
+      <point x="-27" y="841"/>
+      <point x="-59" y="864"/>
+      <point x="-95" y="883" type="curve"/>
+      <point x="-158" y="883" type="line"/>
+      <point x="-158" y="870" type="line"/>
+      <point x="-128" y="831"/>
+      <point x="-100" y="793"/>
+    </contour>
+    <contour>
+      <point x="-83" y="600" type="curve"/>
+      <point x="-45" y="600"/>
+      <point x="-19" y="624"/>
+      <point x="-19" y="665" type="curve"/>
+      <point x="-19" y="709"/>
+      <point x="-45" y="731"/>
+      <point x="-83" y="731" type="curve"/>
+      <point x="-124" y="731"/>
+      <point x="-147" y="709"/>
+      <point x="-147" y="665" type="curve"/>
+      <point x="-147" y="624"/>
+      <point x="-124" y="600"/>
+    </contour>
+    <contour>
+      <point x="82" y="600" type="curve"/>
+      <point x="120" y="600"/>
+      <point x="147" y="624"/>
+      <point x="147" y="665" type="curve"/>
+      <point x="147" y="709"/>
+      <point x="120" y="731"/>
+      <point x="82" y="731" type="curve"/>
+      <point x="43" y="731"/>
+      <point x="19" y="709"/>
+      <point x="19" y="665" type="curve"/>
+      <point x="19" y="624"/>
+      <point x="43" y="600"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

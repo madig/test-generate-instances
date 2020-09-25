@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b.sc" format="2">
+  <advance width="458"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="229" y="589" name="top"/>
+  <anchor x="438" y="589" name="topright"/>
+  <outline>
+    <contour>
+      <point x="229" y="589" type="curve"/>
+      <point x="46" y="589" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="250" y="0" type="line" smooth="yes"/>
+      <point x="369" y="0"/>
+      <point x="439" y="68"/>
+      <point x="439" y="172" type="curve" smooth="yes"/>
+      <point x="439" y="265"/>
+      <point x="394" y="297"/>
+      <point x="366" y="308" type="curve"/>
+      <point x="366" y="312" type="line"/>
+      <point x="390" y="323"/>
+      <point x="432" y="363"/>
+      <point x="432" y="442" type="curve" smooth="yes"/>
+      <point x="432" y="536"/>
+      <point x="377" y="589"/>
+    </contour>
+    <contour>
+      <point x="231" y="359" type="curve"/>
+      <point x="208" y="359" type="line"/>
+      <point x="208" y="454" type="line"/>
+      <point x="232" y="454" type="line" smooth="yes"/>
+      <point x="255" y="454"/>
+      <point x="268" y="434"/>
+      <point x="268" y="410" type="curve" smooth="yes"/>
+      <point x="268" y="381"/>
+      <point x="258" y="359"/>
+    </contour>
+    <contour>
+      <point x="239" y="135" type="curve" smooth="yes"/>
+      <point x="208" y="135" type="line"/>
+      <point x="208" y="239" type="line"/>
+      <point x="237" y="239" type="line" smooth="yes"/>
+      <point x="264" y="239"/>
+      <point x="275" y="213"/>
+      <point x="275" y="186" type="curve" smooth="yes"/>
+      <point x="275" y="157"/>
+      <point x="261" y="135"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

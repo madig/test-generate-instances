@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="suspensionmark" format="2">
+  <unicode hex="1DC3"/>
+  <anchor x="1" y="537" name="_top"/>
+  <anchor x="3" y="729" name="top"/>
+  <outline>
+    <contour>
+      <point x="128" y="666" type="curve"/>
+      <point x="133" y="666" type="line"/>
+      <point x="133" y="727" type="line"/>
+      <point x="126" y="727" type="line" smooth="yes"/>
+      <point x="38" y="727"/>
+      <point x="-4" y="672"/>
+      <point x="-43" y="672" type="curve"/>
+      <point x="-66" y="672"/>
+      <point x="-76" y="691"/>
+      <point x="-80" y="729" type="curve"/>
+      <point x="-132" y="729" type="line"/>
+      <point x="-132" y="714" type="line" smooth="yes"/>
+      <point x="-132" y="647"/>
+      <point x="-91" y="609"/>
+      <point x="-45" y="609" type="curve"/>
+      <point x="9" y="609"/>
+      <point x="56" y="666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

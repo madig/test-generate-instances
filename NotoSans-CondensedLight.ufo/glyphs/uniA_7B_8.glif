@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7B8" format="2">
+  <advance width="486"/>
+  <unicode hex="A7B8"/>
+  <outline>
+    <contour>
+      <point x="43" y="-62" type="line"/>
+      <point x="470" y="741" type="line"/>
+      <point x="447" y="752" type="line"/>
+      <point x="21" y="-50" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+    </dict>
+  </lib>
+</glyph>

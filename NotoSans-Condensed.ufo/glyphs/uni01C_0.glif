@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C0" format="2">
+  <advance width="279"/>
+  <unicode hex="01C0"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="140" y="763" name="top"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="177" y="763" type="line"/>
+      <point x="102" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:57</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

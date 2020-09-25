@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tricolon" format="2">
+  <advance width="212"/>
+  <unicode hex="205D"/>
+  <outline>
+    <contour>
+      <point x="51" y="373" type="curve" smooth="yes"/>
+      <point x="51" y="331"/>
+      <point x="74" y="312"/>
+      <point x="109" y="312" type="curve" smooth="yes"/>
+      <point x="145" y="312"/>
+      <point x="167" y="331"/>
+      <point x="167" y="373" type="curve" smooth="yes"/>
+      <point x="167" y="416"/>
+      <point x="145" y="435"/>
+      <point x="109" y="435" type="curve" smooth="yes"/>
+      <point x="74" y="435"/>
+      <point x="51" y="416"/>
+    </contour>
+    <contour>
+      <point x="49" y="48" type="curve" smooth="yes"/>
+      <point x="49" y="5"/>
+      <point x="72" y="-14"/>
+      <point x="107" y="-14" type="curve" smooth="yes"/>
+      <point x="143" y="-14"/>
+      <point x="165" y="5"/>
+      <point x="165" y="48" type="curve" smooth="yes"/>
+      <point x="165" y="90"/>
+      <point x="143" y="109"/>
+      <point x="107" y="109" type="curve" smooth="yes"/>
+      <point x="72" y="109"/>
+      <point x="49" y="90"/>
+    </contour>
+    <contour>
+      <point x="50" y="684" type="curve" smooth="yes"/>
+      <point x="50" y="642"/>
+      <point x="73" y="623"/>
+      <point x="108" y="623" type="curve" smooth="yes"/>
+      <point x="144" y="623"/>
+      <point x="166" y="642"/>
+      <point x="166" y="684" type="curve" smooth="yes"/>
+      <point x="166" y="727"/>
+      <point x="144" y="746"/>
+      <point x="108" y="746" type="curve" smooth="yes"/>
+      <point x="73" y="746"/>
+      <point x="50" y="727"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

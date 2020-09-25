@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Psi" format="2">
+  <advance width="930"/>
+  <unicode hex="03A8"/>
+  <anchor x="465" y="0" name="bottom"/>
+  <anchor x="465" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="875" y="481" type="curve" smooth="yes"/>
+      <point x="875" y="714" type="line"/>
+      <point x="685" y="714" type="line"/>
+      <point x="685" y="468" type="line" smooth="yes"/>
+      <point x="685" y="384"/>
+      <point x="637" y="353"/>
+      <point x="558" y="353" type="curve"/>
+      <point x="558" y="714" type="line"/>
+      <point x="372" y="714" type="line"/>
+      <point x="372" y="353" type="line"/>
+      <point x="283" y="353"/>
+      <point x="245" y="380"/>
+      <point x="245" y="470" type="curve" smooth="yes"/>
+      <point x="245" y="714" type="line"/>
+      <point x="55" y="714" type="line"/>
+      <point x="55" y="468" type="line" smooth="yes"/>
+      <point x="55" y="268"/>
+      <point x="139" y="200"/>
+      <point x="372" y="194" type="curve"/>
+      <point x="372" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="194" type="line"/>
+      <point x="791" y="200"/>
+      <point x="875" y="280"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:53</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

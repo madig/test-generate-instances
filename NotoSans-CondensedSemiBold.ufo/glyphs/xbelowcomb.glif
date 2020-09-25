@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xbelowcomb" format="2">
+  <unicode hex="0353"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="2" y="-204" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-79" y="-83" type="line"/>
+      <point x="-35" y="-127" type="line"/>
+      <point x="-79" y="-172" type="line"/>
+      <point x="-45" y="-204" type="line"/>
+      <point x="0" y="-160" type="line"/>
+      <point x="44" y="-204" type="line"/>
+      <point x="79" y="-171" type="line"/>
+      <point x="33" y="-126" type="line"/>
+      <point x="79" y="-82" type="line"/>
+      <point x="44" y="-48" type="line"/>
+      <point x="0" y="-93" type="line"/>
+      <point x="-45" y="-48" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0243" format="2">
+  <advance width="558"/>
+  <unicode hex="0243"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <anchor x="279" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="286" y="0" type="line" smooth="yes"/>
+      <point x="428" y="0"/>
+      <point x="516" y="80"/>
+      <point x="516" y="209" type="curve" smooth="yes"/>
+      <point x="516" y="296"/>
+      <point x="485" y="351"/>
+      <point x="411" y="374" type="curve"/>
+      <point x="411" y="379" type="line"/>
+      <point x="467" y="396"/>
+      <point x="504" y="457"/>
+      <point x="504" y="536" type="curve" smooth="yes"/>
+      <point x="504" y="658"/>
+      <point x="427" y="714"/>
+      <point x="266" y="714" type="curve" smooth="yes"/>
+      <point x="59" y="714" type="line"/>
+      <point x="59" y="273" type="line"/>
+      <point x="10" y="273" type="line"/>
+      <point x="10" y="182" type="line"/>
+      <point x="59" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="141" type="curve" smooth="yes"/>
+      <point x="229" y="141" type="line"/>
+      <point x="229" y="182" type="line"/>
+      <point x="287" y="182" type="line"/>
+      <point x="287" y="273" type="line"/>
+      <point x="229" y="273" type="line"/>
+      <point x="229" y="313" type="line"/>
+      <point x="271" y="313" type="line" smooth="yes"/>
+      <point x="317" y="313"/>
+      <point x="342" y="279"/>
+      <point x="342" y="228" type="curve" smooth="yes"/>
+      <point x="342" y="173"/>
+      <point x="319" y="141"/>
+    </contour>
+    <contour>
+      <point x="266" y="436" type="curve" smooth="yes"/>
+      <point x="229" y="436" type="line"/>
+      <point x="229" y="576" type="line"/>
+      <point x="263" y="576" type="line" smooth="yes"/>
+      <point x="309" y="576"/>
+      <point x="332" y="554"/>
+      <point x="332" y="510" type="curve" smooth="yes"/>
+      <point x="332" y="461"/>
+      <point x="308" y="436"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:57</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

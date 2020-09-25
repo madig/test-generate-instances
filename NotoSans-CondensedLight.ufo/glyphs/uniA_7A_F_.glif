@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7AF" format="2">
+  <advance width="395"/>
+  <unicode hex="A7AF"/>
+  <anchor x="197.885" y="2" name="bottom"/>
+  <anchor x="198" y="559" name="top"/>
+  <anchor x="380" y="559" name="topright"/>
+  <outline>
+    <contour>
+      <point x="240" y="13" type="line"/>
+      <point x="216" y="8" type="line"/>
+      <point x="283" y="-130" type="line"/>
+      <point x="311" y="-130" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

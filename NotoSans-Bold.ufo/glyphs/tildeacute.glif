@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildeacute" format="2">
+  <outline>
+    <contour>
+      <point x="-179" y="605" type="curve"/>
+      <point x="-106" y="605" type="line"/>
+      <point x="-98" y="633"/>
+      <point x="-87" y="642"/>
+      <point x="-64" y="642" type="curve"/>
+      <point x="-32" y="642"/>
+      <point x="3" y="604"/>
+      <point x="68" y="604" type="curve"/>
+      <point x="146" y="604"/>
+      <point x="174" y="658"/>
+      <point x="181" y="720" type="curve"/>
+      <point x="107" y="720" type="line"/>
+      <point x="103" y="695"/>
+      <point x="90" y="683"/>
+      <point x="69" y="683" type="curve"/>
+      <point x="31" y="683"/>
+      <point x="4" y="721"/>
+      <point x="-68" y="721" type="curve"/>
+      <point x="-142" y="721"/>
+      <point x="-174" y="667"/>
+    </contour>
+    <contour>
+      <point x="-100" y="759" type="curve"/>
+      <point x="-100" y="745" type="line"/>
+      <point x="28" y="745" type="line"/>
+      <point x="78" y="776"/>
+      <point x="148" y="831"/>
+      <point x="189" y="871" type="curve"/>
+      <point x="189" y="881" type="line"/>
+      <point x="-10" y="881" type="line"/>
+      <point x="-34" y="839"/>
+      <point x="-65" y="796"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:03</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

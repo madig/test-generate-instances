@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni206D" format="2">
+  <unicode hex="206D"/>
+  <outline>
+    <contour>
+      <point x="-21" y="-133" type="line"/>
+      <point x="21" y="-133" type="line"/>
+      <point x="21" y="477" type="line"/>
+      <point x="117" y="477" type="line"/>
+      <point x="0" y="692" type="line"/>
+      <point x="-117" y="477" type="line"/>
+      <point x="-21" y="477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Separator</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Format</string>
+    </dict>
+  </lib>
+</glyph>

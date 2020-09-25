@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="570"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="156" type="line"/>
+      <point x="373" y="156" type="line"/>
+      <point x="373" y="181" type="line"/>
+      <point x="176" y="181" type="line"/>
+      <point x="176" y="359" type="line"/>
+      <point x="497" y="359" type="line"/>
+      <point x="497" y="384" type="line"/>
+      <point x="176" y="384" type="line"/>
+      <point x="176" y="689" type="line"/>
+      <point x="516" y="689" type="line"/>
+      <point x="516" y="714" type="line"/>
+      <point x="150" y="714" type="line"/>
+      <point x="150" y="181" type="line"/>
+      <point x="55" y="181" type="line"/>
+      <point x="55" y="156" type="line"/>
+      <point x="150" y="156" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:54</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

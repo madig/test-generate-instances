@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="244"/>
+  <unicode hex="0237"/>
+  <anchor x="42" y="-240" name="bottom"/>
+  <anchor x="122" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="42" y="-240" type="curve" smooth="yes"/>
+      <point x="136" y="-240"/>
+      <point x="187" y="-174"/>
+      <point x="187" y="-59" type="curve" smooth="yes"/>
+      <point x="187" y="547" type="line"/>
+      <point x="57" y="547" type="line"/>
+      <point x="57" y="-56" type="line" smooth="yes"/>
+      <point x="57" y="-103"/>
+      <point x="43" y="-126"/>
+      <point x="13" y="-126" type="curve" smooth="yes"/>
+      <point x="0" y="-126"/>
+      <point x="-14" y="-123"/>
+      <point x="-28" y="-117" type="curve"/>
+      <point x="-28" y="-229" type="line"/>
+      <point x="-13" y="-235"/>
+      <point x="21" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=j</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:04</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

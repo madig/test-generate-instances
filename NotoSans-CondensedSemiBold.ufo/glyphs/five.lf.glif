@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.lf" format="2">
+  <advance width="454"/>
+  <outline>
+    <contour>
+      <point x="245" y="457" type="curve" smooth="yes"/>
+      <point x="227" y="457"/>
+      <point x="203" y="455"/>
+      <point x="176" y="448" type="curve"/>
+      <point x="186" y="595" type="line"/>
+      <point x="379" y="595" type="line"/>
+      <point x="379" y="714" type="line"/>
+      <point x="73" y="714" type="line"/>
+      <point x="52" y="360" type="line"/>
+      <point x="97" y="326" type="line"/>
+      <point x="126" y="337"/>
+      <point x="152" y="343"/>
+      <point x="178" y="343" type="curve" smooth="yes"/>
+      <point x="244" y="343"/>
+      <point x="279" y="303"/>
+      <point x="279" y="230" type="curve" smooth="yes"/>
+      <point x="279" y="156"/>
+      <point x="245" y="106"/>
+      <point x="180" y="106" type="curve" smooth="yes"/>
+      <point x="136" y="106"/>
+      <point x="86" y="124"/>
+      <point x="44" y="149" type="curve"/>
+      <point x="44" y="24" type="line"/>
+      <point x="84" y="1"/>
+      <point x="132" y="-10"/>
+      <point x="189" y="-10" type="curve" smooth="yes"/>
+      <point x="341" y="-10"/>
+      <point x="416" y="81"/>
+      <point x="416" y="235" type="curve" smooth="yes"/>
+      <point x="416" y="366"/>
+      <point x="347" y="457"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DA4dotless" format="2">
+  <advance width="159"/>
+  <anchor x="81" y="287" name="bottom"/>
+  <anchor x="79" y="615" name="top"/>
+  <anchor x="146" y="615" name="topright"/>
+  <outline>
+    <contour>
+      <point x="158" y="490" type="line"/>
+      <point x="1" y="490" type="line"/>
+      <point x="1" y="433" type="line"/>
+      <point x="158" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="615" type="line"/>
+      <point x="37" y="615" type="line"/>
+      <point x="37" y="287" type="line"/>
+      <point x="122" y="287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:11</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

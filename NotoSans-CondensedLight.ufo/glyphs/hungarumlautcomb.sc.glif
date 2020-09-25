@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.sc" format="2">
+  <advance width="349"/>
+  <anchor x="196" y="559" name="_top"/>
+  <anchor x="196" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="94" y="628" type="curve"/>
+      <point x="94" y="617" type="line"/>
+      <point x="106" y="617" type="line"/>
+      <point x="143" y="659"/>
+      <point x="179" y="711"/>
+      <point x="198" y="753" type="curve"/>
+      <point x="198" y="760" type="line"/>
+      <point x="170" y="760" type="line"/>
+      <point x="157" y="725"/>
+      <point x="120" y="666"/>
+    </contour>
+    <contour>
+      <point x="193" y="628" type="curve"/>
+      <point x="193" y="617" type="line"/>
+      <point x="205" y="617" type="line"/>
+      <point x="242" y="659"/>
+      <point x="278" y="711"/>
+      <point x="297" y="753" type="curve"/>
+      <point x="297" y="760" type="line"/>
+      <point x="269" y="760" type="line"/>
+      <point x="256" y="725"/>
+      <point x="219" y="666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

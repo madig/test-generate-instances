@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni025E" format="2">
+  <advance width="512"/>
+  <unicode hex="025E"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="256" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="273" y="557" type="curve" smooth="yes"/>
+      <point x="119" y="557"/>
+      <point x="36" y="458"/>
+      <point x="36" y="274" type="curve" smooth="yes"/>
+      <point x="36" y="98"/>
+      <point x="107" y="-10"/>
+      <point x="269" y="-10" type="curve" smooth="yes"/>
+      <point x="406" y="-10"/>
+      <point x="479" y="58"/>
+      <point x="479" y="157" type="curve" smooth="yes"/>
+      <point x="479" y="230"/>
+      <point x="438" y="271"/>
+      <point x="375" y="285" type="curve"/>
+      <point x="375" y="290" type="line"/>
+      <point x="427" y="307"/>
+      <point x="458" y="352"/>
+      <point x="458" y="412" type="curve" smooth="yes"/>
+      <point x="458" y="499"/>
+      <point x="396" y="557"/>
+    </contour>
+    <contour>
+      <point x="267" y="449" type="curve" smooth="yes"/>
+      <point x="311" y="449"/>
+      <point x="332" y="424"/>
+      <point x="332" y="392" type="curve" smooth="yes"/>
+      <point x="332" y="351"/>
+      <point x="305" y="332"/>
+      <point x="267" y="332" type="curve" smooth="yes"/>
+      <point x="242" y="332" type="line"/>
+      <point x="242" y="234" type="line"/>
+      <point x="274" y="234" type="line" smooth="yes"/>
+      <point x="320" y="234"/>
+      <point x="346" y="212"/>
+      <point x="346" y="167" type="curve" smooth="yes"/>
+      <point x="346" y="125"/>
+      <point x="316" y="100"/>
+      <point x="272" y="100" type="curve" smooth="yes"/>
+      <point x="201" y="100"/>
+      <point x="168" y="159"/>
+      <point x="168" y="272" type="curve" smooth="yes"/>
+      <point x="168" y="391"/>
+      <point x="202" y="449"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:58</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

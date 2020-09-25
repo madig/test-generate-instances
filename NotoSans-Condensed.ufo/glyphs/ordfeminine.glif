@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="302"/>
+  <unicode hex="00AA"/>
+  <anchor x="132" y="382" name="bottom"/>
+  <anchor x="142" y="725" name="top"/>
+  <outline>
+    <contour>
+      <point x="153" y="722" type="curve" smooth="yes"/>
+      <point x="116" y="722"/>
+      <point x="84" y="713"/>
+      <point x="51" y="695" type="curve"/>
+      <point x="70" y="649" type="line"/>
+      <point x="96" y="663"/>
+      <point x="119" y="671"/>
+      <point x="143" y="671" type="curve" smooth="yes"/>
+      <point x="177" y="671"/>
+      <point x="190" y="653"/>
+      <point x="190" y="612" type="curve" smooth="yes"/>
+      <point x="190" y="586" type="line"/>
+      <point x="149" y="583" type="line" smooth="yes"/>
+      <point x="69" y="577"/>
+      <point x="26" y="547"/>
+      <point x="26" y="480" type="curve" smooth="yes"/>
+      <point x="26" y="424"/>
+      <point x="58" y="382"/>
+      <point x="107" y="382" type="curve" smooth="yes"/>
+      <point x="147" y="382"/>
+      <point x="175" y="400"/>
+      <point x="198" y="437" type="curve"/>
+      <point x="209" y="388" type="line"/>
+      <point x="252" y="388" type="line"/>
+      <point x="252" y="609" type="line"/>
+      <point x="252" y="685"/>
+      <point x="221" y="722"/>
+    </contour>
+    <contour>
+      <point x="160" y="541" type="curve" smooth="yes"/>
+      <point x="190" y="544" type="line"/>
+      <point x="190" y="519" type="line" smooth="yes"/>
+      <point x="190" y="465"/>
+      <point x="167" y="432"/>
+      <point x="129" y="432" type="curve" smooth="yes"/>
+      <point x="102" y="432"/>
+      <point x="88" y="448"/>
+      <point x="88" y="481" type="curve" smooth="yes"/>
+      <point x="88" y="520"/>
+      <point x="109" y="537"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:51</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Superscript</string>
+    </dict>
+  </lib>
+</glyph>

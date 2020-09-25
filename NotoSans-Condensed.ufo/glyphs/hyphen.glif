@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="274"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="27" y="229" type="line"/>
+      <point x="247" y="229" type="line"/>
+      <point x="247" y="310" type="line"/>
+      <point x="27" y="310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:50</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Dash</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brackhalfbottomleft" format="2">
+  <advance width="345"/>
+  <unicode hex="2E24"/>
+  <outline>
+    <contour>
+      <point x="80" y="-158" type="line"/>
+      <point x="320" y="-158" type="line"/>
+      <point x="320" y="-56" type="line"/>
+      <point x="196" y="-56" type="line"/>
+      <point x="196" y="293" type="line"/>
+      <point x="80" y="293" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:08</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Parenthesis</string>
+    </dict>
+  </lib>
+</glyph>

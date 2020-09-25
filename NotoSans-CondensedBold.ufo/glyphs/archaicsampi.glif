@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="archaicsampi" format="2">
+  <advance width="552"/>
+  <unicode hex="0373"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="276" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="361" y="0" type="line"/>
+      <point x="361" y="613" type="line"/>
+      <point x="530" y="613" type="line"/>
+      <point x="530" y="760" type="line"/>
+      <point x="22" y="760" type="line"/>
+      <point x="22" y="613" type="line"/>
+      <point x="191" y="613" type="line"/>
+      <point x="191" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="760" type="line"/>
+      <point x="419" y="423" type="line"/>
+      <point x="540" y="423" type="line"/>
+      <point x="540" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="760" type="line"/>
+      <point x="12" y="423" type="line"/>
+      <point x="133" y="423" type="line"/>
+      <point x="133" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:06</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

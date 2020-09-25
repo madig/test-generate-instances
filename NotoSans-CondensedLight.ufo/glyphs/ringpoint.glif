@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringpoint" format="2">
+  <advance width="572"/>
+  <unicode hex="2E30"/>
+  <outline>
+    <contour>
+      <point x="287" y="167" type="curve" smooth="yes"/>
+      <point x="398" y="167"/>
+      <point x="470" y="250"/>
+      <point x="470" y="352" type="curve" smooth="yes"/>
+      <point x="470" y="455"/>
+      <point x="398" y="537"/>
+      <point x="287" y="537" type="curve" smooth="yes"/>
+      <point x="175" y="537"/>
+      <point x="102" y="455"/>
+      <point x="102" y="352" type="curve" smooth="yes"/>
+      <point x="102" y="250"/>
+      <point x="175" y="167"/>
+    </contour>
+    <contour>
+      <point x="287" y="192" type="curve" smooth="yes"/>
+      <point x="189" y="192"/>
+      <point x="129" y="264"/>
+      <point x="129" y="352" type="curve" smooth="yes"/>
+      <point x="129" y="440"/>
+      <point x="189" y="512"/>
+      <point x="287" y="512" type="curve" smooth="yes"/>
+      <point x="385" y="512"/>
+      <point x="443" y="439"/>
+      <point x="443" y="352" type="curve" smooth="yes"/>
+      <point x="443" y="265"/>
+      <point x="385" y="192"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

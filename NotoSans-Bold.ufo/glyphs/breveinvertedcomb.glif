@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="0311"/>
+  <anchor x="0" y="553" name="_top"/>
+  <anchor x="3" y="791" name="top"/>
+  <outline>
+    <contour>
+      <point x="2" y="791" type="curve"/>
+      <point x="-119" y="791"/>
+      <point x="-208" y="714"/>
+      <point x="-215" y="606" type="curve"/>
+      <point x="-111" y="606" type="line"/>
+      <point x="-106" y="658"/>
+      <point x="-42" y="666"/>
+      <point x="2" y="666" type="curve"/>
+      <point x="56" y="666"/>
+      <point x="110" y="663"/>
+      <point x="114" y="606" type="curve"/>
+      <point x="216" y="606" type="line"/>
+      <point x="211" y="718"/>
+      <point x="127" y="791"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:09</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

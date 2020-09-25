@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1AB3" format="2">
+  <unicode hex="1AB3"/>
+  <anchor x="1" y="527" name="_top"/>
+  <anchor x="1" y="822" name="top"/>
+  <outline>
+    <contour>
+      <point x="14" y="675" type="curve"/>
+      <point x="14" y="822" type="line"/>
+      <point x="-12" y="822" type="line"/>
+      <point x="-12" y="675" type="line"/>
+      <point x="-31" y="691"/>
+      <point x="-62" y="710"/>
+      <point x="-93" y="719" type="curve"/>
+      <point x="-93" y="705" type="line"/>
+      <point x="-54" y="683"/>
+      <point x="-25" y="651"/>
+      <point x="-7" y="621" type="curve"/>
+      <point x="7" y="621" type="line"/>
+      <point x="26" y="651"/>
+      <point x="55" y="683"/>
+      <point x="94" y="705" type="curve"/>
+      <point x="94" y="719" type="line"/>
+      <point x="66" y="711"/>
+      <point x="34" y="692"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

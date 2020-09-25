@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.osf" format="2">
+  <advance width="611"/>
+  <outline>
+    <contour>
+      <point x="307" y="724" type="curve" smooth="yes"/>
+      <point x="156" y="724"/>
+      <point x="66" y="660"/>
+      <point x="66" y="551" type="curve" smooth="yes"/>
+      <point x="66" y="482"/>
+      <point x="99" y="424"/>
+      <point x="175" y="373" type="curve"/>
+      <point x="82" y="325"/>
+      <point x="45" y="271"/>
+      <point x="45" y="188" type="curve" smooth="yes"/>
+      <point x="45" y="60"/>
+      <point x="137" y="-10"/>
+      <point x="305" y="-10" type="curve" smooth="yes"/>
+      <point x="470" y="-10"/>
+      <point x="566" y="63"/>
+      <point x="566" y="190" type="curve" smooth="yes"/>
+      <point x="566" y="259"/>
+      <point x="527" y="316"/>
+      <point x="422" y="376" type="curve"/>
+      <point x="507" y="419"/>
+      <point x="545" y="474"/>
+      <point x="545" y="550" type="curve" smooth="yes"/>
+      <point x="545" y="661"/>
+      <point x="458" y="724"/>
+    </contour>
+    <contour>
+      <point x="222" y="196" type="curve" smooth="yes"/>
+      <point x="222" y="231"/>
+      <point x="246" y="260"/>
+      <point x="303" y="291" type="curve"/>
+      <point x="367" y="252"/>
+      <point x="389" y="224"/>
+      <point x="389" y="192" type="curve" smooth="yes"/>
+      <point x="389" y="150"/>
+      <point x="360" y="129"/>
+      <point x="303" y="129" type="curve" smooth="yes"/>
+      <point x="252" y="129"/>
+      <point x="222" y="156"/>
+    </contour>
+    <contour>
+      <point x="306" y="585" type="curve" smooth="yes"/>
+      <point x="338" y="585"/>
+      <point x="364" y="565"/>
+      <point x="364" y="533" type="curve" smooth="yes"/>
+      <point x="364" y="505"/>
+      <point x="351" y="486"/>
+      <point x="304" y="459" type="curve"/>
+      <point x="266" y="480"/>
+      <point x="247" y="505"/>
+      <point x="247" y="533" type="curve" smooth="yes"/>
+      <point x="247" y="564"/>
+      <point x="273" y="585"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

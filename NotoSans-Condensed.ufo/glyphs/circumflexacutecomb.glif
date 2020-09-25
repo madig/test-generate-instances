@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacutecomb" format="2">
+  <outline>
+    <contour>
+      <point x="-203" y="608" type="curve"/>
+      <point x="-160" y="608" type="line"/>
+      <point x="-160" y="619" type="line"/>
+      <point x="-189" y="655"/>
+      <point x="-216" y="697"/>
+      <point x="-243" y="744" type="curve"/>
+      <point x="-329" y="744" type="line"/>
+      <point x="-354" y="702"/>
+      <point x="-380" y="660"/>
+      <point x="-411" y="619" type="curve"/>
+      <point x="-411" y="608" type="line"/>
+      <point x="-369" y="608" type="line"/>
+      <point x="-348" y="626"/>
+      <point x="-321" y="654"/>
+      <point x="-286" y="693" type="curve"/>
+      <point x="-255" y="657"/>
+      <point x="-227" y="628"/>
+    </contour>
+    <contour>
+      <point x="-189" y="711" type="curve"/>
+      <point x="-189" y="700" type="line"/>
+      <point x="-146" y="700" type="line"/>
+      <point x="-107" y="732"/>
+      <point x="-76" y="767"/>
+      <point x="-52" y="803" type="curve"/>
+      <point x="-52" y="812" type="line"/>
+      <point x="-132" y="812" type="line"/>
+      <point x="-142" y="783"/>
+      <point x="-164" y="744"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:56</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

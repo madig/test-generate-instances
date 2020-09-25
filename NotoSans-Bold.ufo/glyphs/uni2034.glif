@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2034" format="2">
+  <advance width="832"/>
+  <unicode hex="2034"/>
+  <outline>
+    <contour>
+      <point x="548" y="456" type="line"/>
+      <point x="681" y="456" type="line"/>
+      <point x="853" y="714" type="line"/>
+      <point x="680" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="456" type="line"/>
+      <point x="165" y="456" type="line"/>
+      <point x="337" y="714" type="line"/>
+      <point x="164" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="456" type="line"/>
+      <point x="423" y="456" type="line"/>
+      <point x="595" y="714" type="line"/>
+      <point x="422" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>second</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>second</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:02</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Quote</string>
+    </dict>
+  </lib>
+</glyph>

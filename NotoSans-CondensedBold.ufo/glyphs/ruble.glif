@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="520"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="247" type="line"/>
+      <point x="262" y="247" type="line" smooth="yes"/>
+      <point x="420" y="247"/>
+      <point x="492" y="348"/>
+      <point x="492" y="491" type="curve" smooth="yes"/>
+      <point x="492" y="636"/>
+      <point x="418" y="714"/>
+      <point x="271" y="714" type="curve" smooth="yes"/>
+      <point x="59" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="65" type="line"/>
+      <point x="365" y="65" type="line"/>
+      <point x="365" y="181" type="line"/>
+      <point x="10" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="247" type="line"/>
+      <point x="203" y="247" type="line"/>
+      <point x="203" y="363" type="line"/>
+      <point x="10" y="363" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="363" type="curve" smooth="yes"/>
+      <point x="229" y="363" type="line"/>
+      <point x="229" y="570" type="line"/>
+      <point x="255" y="570" type="line" smooth="yes"/>
+      <point x="300" y="570"/>
+      <point x="322" y="539"/>
+      <point x="322" y="478" type="curve" smooth="yes"/>
+      <point x="322" y="395"/>
+      <point x="291" y="363"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:08</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

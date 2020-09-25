@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotsoveronedotpunctuation" format="2">
+  <advance width="766"/>
+  <unicode hex="2E2A"/>
+  <outline>
+    <contour>
+      <point x="355" y="34" type="curve" smooth="yes"/>
+      <point x="355" y="7"/>
+      <point x="363" y="-6"/>
+      <point x="384" y="-6" type="curve" smooth="yes"/>
+      <point x="404" y="-6"/>
+      <point x="412" y="7"/>
+      <point x="412" y="34" type="curve" smooth="yes"/>
+      <point x="412" y="62"/>
+      <point x="404" y="75"/>
+      <point x="384" y="75" type="curve" smooth="yes"/>
+      <point x="363" y="75"/>
+      <point x="355" y="62"/>
+    </contour>
+    <contour>
+      <point x="48" y="681" type="curve" smooth="yes"/>
+      <point x="48" y="654"/>
+      <point x="56" y="639"/>
+      <point x="76" y="639" type="curve" smooth="yes"/>
+      <point x="97" y="639"/>
+      <point x="105" y="654"/>
+      <point x="105" y="681" type="curve" smooth="yes"/>
+      <point x="105" y="708"/>
+      <point x="97" y="722"/>
+      <point x="76" y="722" type="curve" smooth="yes"/>
+      <point x="56" y="722"/>
+      <point x="48" y="708"/>
+    </contour>
+    <contour>
+      <point x="660" y="681" type="curve" smooth="yes"/>
+      <point x="660" y="654"/>
+      <point x="668" y="639"/>
+      <point x="688" y="639" type="curve" smooth="yes"/>
+      <point x="709" y="639"/>
+      <point x="717" y="654"/>
+      <point x="717" y="681" type="curve" smooth="yes"/>
+      <point x="717" y="708"/>
+      <point x="709" y="722"/>
+      <point x="688" y="722" type="curve" smooth="yes"/>
+      <point x="668" y="722"/>
+      <point x="660" y="708"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:08</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

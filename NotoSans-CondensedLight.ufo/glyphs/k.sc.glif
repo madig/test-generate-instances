@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sc" format="2">
+  <advance width="296"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="155" y="559" name="top"/>
+  <anchor x="276" y="559" name="topright"/>
+  <outline>
+    <contour>
+      <point x="51" y="559" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="77" y="229" type="line"/>
+      <point x="129" y="300" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="147" y="323" type="line"/>
+      <point x="290" y="559" type="line"/>
+      <point x="261" y="559" type="line"/>
+      <point x="115" y="321" type="line" smooth="yes"/>
+      <point x="102" y="300"/>
+      <point x="88" y="279"/>
+      <point x="77" y="257" type="curve"/>
+      <point x="77" y="559" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:05</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

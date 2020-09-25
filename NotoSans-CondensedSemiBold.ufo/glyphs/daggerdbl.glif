@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="481"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="285" y="270" type="line"/>
+      <point x="304" y="384" type="line"/>
+      <point x="285" y="490" type="line"/>
+      <point x="432" y="475" type="line"/>
+      <point x="432" y="589" type="line"/>
+      <point x="285" y="574" type="line"/>
+      <point x="310" y="760" type="line"/>
+      <point x="178" y="760" type="line"/>
+      <point x="202" y="574" type="line"/>
+      <point x="48" y="589" type="line"/>
+      <point x="48" y="475" type="line"/>
+      <point x="202" y="490" type="line"/>
+      <point x="182" y="384" type="line"/>
+      <point x="202" y="270" type="line"/>
+      <point x="48" y="285" type="line"/>
+      <point x="48" y="171" type="line"/>
+      <point x="202" y="187" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="285" y="187" type="line"/>
+      <point x="432" y="171" type="line"/>
+      <point x="432" y="285" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:54</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

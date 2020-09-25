@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dottedrightpointingangle" format="2">
+  <advance width="572"/>
+  <unicode hex="2E16"/>
+  <outline>
+    <contour>
+      <point x="51" y="139" type="line"/>
+      <point x="521" y="360" type="line"/>
+      <point x="521" y="410" type="line"/>
+      <point x="51" y="631" type="line"/>
+      <point x="51" y="553" type="line"/>
+      <point x="417" y="385" type="line"/>
+      <point x="51" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="668" type="curve" smooth="yes"/>
+      <point x="204" y="635"/>
+      <point x="231" y="608"/>
+      <point x="264" y="608" type="curve" smooth="yes"/>
+      <point x="297" y="608"/>
+      <point x="324" y="635"/>
+      <point x="324" y="668" type="curve" smooth="yes"/>
+      <point x="324" y="701"/>
+      <point x="297" y="728"/>
+      <point x="264" y="728" type="curve" smooth="yes"/>
+      <point x="231" y="728"/>
+      <point x="204" y="701"/>
+    </contour>
+    <contour>
+      <point x="204" y="102" type="curve" smooth="yes"/>
+      <point x="204" y="69"/>
+      <point x="231" y="42"/>
+      <point x="264" y="42" type="curve" smooth="yes"/>
+      <point x="297" y="42"/>
+      <point x="324" y="69"/>
+      <point x="324" y="102" type="curve" smooth="yes"/>
+      <point x="324" y="135"/>
+      <point x="297" y="162"/>
+      <point x="264" y="162" type="curve" smooth="yes"/>
+      <point x="231" y="162"/>
+      <point x="204" y="135"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:18:07</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

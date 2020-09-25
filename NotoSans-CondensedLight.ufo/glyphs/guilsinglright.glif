@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="231"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="54" y="429" type="line"/>
+      <point x="40" y="419" type="line"/>
+      <point x="152" y="254" type="line"/>
+      <point x="40" y="89" type="line"/>
+      <point x="54" y="78" type="line"/>
+      <point x="192" y="247" type="line"/>
+      <point x="192" y="259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/08 20:17:54</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Quote</string>
+    </dict>
+  </lib>
+</glyph>
