@@ -4,6 +4,7 @@ import argparse
 import multiprocessing
 from pathlib import Path
 
+import ufoLib2
 from fontmake.instantiator import Instantiator
 from fontTools.designspaceLib import DesignSpaceDocument, InstanceDescriptor
 
@@ -14,6 +15,11 @@ def generate_and_write_autohinted_instance(
     output_dir: Path,
 ):
     print(f"Generating {instance_descriptor.name}")
+    # (Load all sources into memory completely rather than have the instantiator load
+    # data on demand. This cleanly separates source loading from source preparation in
+    # profilers. This may distort measurements if the sources have extra layers or any
+    # data/ data or images.)
+    designspace.loadSourceFonts(ufoLib2.Font.open, lazy=False)
     instantiator = Instantiator.from_designspace(designspace)
     instance = instantiator.generate_instance(instance_descriptor)
     file_stem = f"{instance.info.familyName}-{instance.info.styleName}".replace(" ", "")

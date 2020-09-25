@@ -6,6 +6,7 @@ import pickle
 from multiprocessing.shared_memory import SharedMemory
 from pathlib import Path
 
+import ufoLib2
 from fontmake.instantiator import Instantiator
 from fontTools.designspaceLib import DesignSpaceDocument, InstanceDescriptor
 
@@ -37,6 +38,11 @@ if __name__ == "__main__":
         for s in designspace.instances
         if s.lib.get("com.schriftgestaltung.export", True)
     ]
+    # (Load all sources into memory completely rather than have the instantiator load
+    # data on demand. This cleanly separates source loading from source preparation in
+    # profilers. This may distort measurements if the sources have extra layers or any
+    # data/ data or images.)
+    designspace.loadSourceFonts(ufoLib2.Font.open, lazy=False)
 
     # 2. Prepare masters.
     print("Instantiating instantiator")
